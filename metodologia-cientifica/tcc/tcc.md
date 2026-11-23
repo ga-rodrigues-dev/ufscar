@@ -38,7 +38,7 @@ A busca foi executada em 22/11/2026 na Scopus, nos campos de título, resumo e p
 
 ### 3.1. Execução – identificação e seleção dos estudos
 
-Os critérios de seleção são apresentados na Tabela 1. Um estudo foi incluído quando atendeu a IN1 ou IN2 e a nenhum critério de exclusão. Considerou-se "contexto de CI" quando o estudo situa explicitamente os testes, os dados ou a estratégia em integração contínua. O acesso aberto não foi critério de seleção.
+Os critérios de seleção são apresentados na Tabela 1. Um estudo foi incluído quando atendeu a IN1 ou IN2 e a nenhum critério de exclusão. Considerou-se em contexto de CI o estudo cujos dados foram coletados em CI, cuja estratégia foi aplicada ou avaliada em um *pipeline* de CI ou que tem questão de pesquisa específica sobre CI; estudos que citam a CI apenas como motivação foram excluídos. O acesso aberto não foi critério de seleção.
 
 Tabela 1. Critérios de inclusão (IN) e de exclusão (EX)
 | Código | Critério |
@@ -50,7 +50,6 @@ Tabela 1. Critérios de inclusão (IN) e de exclusão (EX)
 | EX3 | Não relata causas nem mitigação (foco exclusivo em detecção, predição, prevalência, impacto ou custo) |
 | EX4 | Não é estudo primário empírico (revisão, proposta conceitual ou relato sem dados) |
 | EX5 | Não publicado em periódico ou conferência com revisão por pares |
-| EX6 | Idioma diferente de inglês ou português |
 
 A busca retornou 89 registros. Foram removidos 3 registros duplicados ou versões preliminares de outros registros, e os 86 restantes foram triados por título e resumo. Nessa etapa, 58 foram excluídos: 2 por EX1, 24 por EX2, 24 por EX3 e 8 por EX4. Dos 28 estudos selecionados para leitura completa, 12 tiveram o texto obtido (versões da editora, dos autores, de repositórios institucionais e do arXiv) e 16 não puderam ser recuperados nesta versão. Na leitura completa, 2 estudos foram excluídos por não situarem os dados em CI (a CI aparecia apenas como motivação). Assim, 10 estudos foram incluídos, como apresentado na Figura 1.
 
@@ -132,7 +131,7 @@ A questão de pesquisa deste estudo é "quais causas e estratégias de mitigaç�
 
 Para a prática, esses resultados sugerem relacionar a estratégia à causa: falhas de ambiente favorecem padronização e dimensionamento da infraestrutura; falhas de código favorecem correção (por exemplo, fixar a semente de dados aleatórios, situação que motivou este trabalho); e a reexecução deve ser limitada e acompanhada de registro, para não ocultar defeitos. Os custos das estratégias avaliadas, como o tempo adicional da quarentena (HASHEMI et al., 2026) ou a perda de realismo do modo *offline* (AHLGREN et al., 2021), indicam que não há solução única.
 
-Esta revisão tem limitações. A busca usou apenas a Scopus e exigiu o termo "CI" ou "continuous integration" no título ou no resumo, o que deixa de fora estudos clássicos que não mencionam CI no resumo. Mais da metade dos estudos selecionados para leitura completa (16 de 28) não pôde ser recuperada, e alguns textos foram lidos em versões preliminares dos autores. A triagem e a extração foram realizadas com apoio de IA, sem um segundo revisor independente. Por fim, os estudos usam definições e unidades de análise diferentes (teste, *build*, *job*), o que impede somar ou comparar diretamente suas proporções.
+Esta revisão tem limitações. A busca usou apenas a Scopus e exigiu o termo "CI" ou "continuous integration" no título ou no resumo, o que deixa de fora estudos clássicos que não mencionam CI no resumo. Mais da metade dos estudos selecionados para leitura completa (16 de 28) não pôde ser recuperada, e alguns textos foram lidos em versões preliminares dos autores. A exigência de contexto de CI tende a favorecer causas ligadas ao ambiente de execução: os dois estudos excluídos por esse motivo relatam sobretudo causas no código, como concorrência e comparação de valores de ponto flutuante. A triagem e a extração foram realizadas com apoio de IA, sem um segundo revisor independente. Por fim, os estudos usam definições e unidades de análise diferentes (teste, *build*, *job*), o que impede somar ou comparar diretamente suas proporções.
 
 ## 5. Conclusões
 

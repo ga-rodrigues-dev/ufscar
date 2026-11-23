@@ -15,14 +15,14 @@ Rascunho de 22/11/2026, preparado com apoio de IA (Claude Code com subagentes de
 | E7 | [055](055.md) | Silva et al. (2024), IEEE TSE | IN1, IN2 | arXiv 2310.12132v1 (anterior à versão da TSE) |
 | E8 | [098](098.md) | Hashemi et al. (2026), ICST | IN1, IN2 | arXiv 2602.19098 |
 | E9 | [118](118.md) | Xiao et al. (2026), IEEE TSE | IN1 | arXiv 2602.09311v2 |
-| E10 | [157](157.md) | Kumar (2026), JIDMIS | IN1, IN2 (limítrofe) | PDF da editora |
+| E10 | [157](157.md) | Kumar (2026), JIDMIS | IN1, IN2 | PDF da editora |
 
 ## Excluídos na leitura completa (2)
 
 | Ficha | Estudo | Motivo | Observação |
 |---|---|---|---|
-| [035](035.md) | Habchi et al. (2022), ICSME | Sem contexto de CI (CI apenas como motivação) | Limítrofe; decisão do aluno |
-| [100](100.md) | Kim et al. (2026), JSS | Sem contexto de CI (execuções em cluster HPC) | Limítrofe; decisão do aluno |
+| [035](035.md) | Habchi et al. (2022), ICSME | Sem contexto de CI (CI apenas como motivação) | Exclusão confirmada pelo aluno (regra estrita) |
+| [100](100.md) | Kim et al. (2026), JSS | Sem contexto de CI (execuções em cluster HPC) | Exclusão confirmada pelo aluno (regra estrita) |
 
 As fichas [042](042.md) (Verma, 2023) e [084](084.md) (Barbosa, 2025) vêm da busca exploratória no OpenAlex (protocolo v0.1–v0.2). Esses estudos não estão indexados na Scopus e não fazem parte da revisão.
 

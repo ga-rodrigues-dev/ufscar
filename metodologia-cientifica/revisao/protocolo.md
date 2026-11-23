@@ -34,7 +34,7 @@ Subquestões de extração (de [tema-do-tcc.md](../tema-do-tcc.md)):
 TITLE-ABS-KEY ( ( "flaky test*" OR "test flakiness" OR "flaky build*" OR "intermittent test*" OR "non-deterministic test*" OR "nondeterministic test*" ) AND ( "continuous integration" OR "CI" ) )
 ```
 
-Sem filtros de ano, área ou idioma na busca (seguindo a orientação de não limitar por área ou ano — [Perguntas & Respostas, p. 1](../materiais/PerguntasRespostasDicas-2026.pdf)). Idioma e tipo de publicação são tratados nos critérios.
+Sem filtros de ano, área ou idioma na busca (seguindo a orientação de não limitar por área ou ano — [Perguntas & Respostas, p. 1](../materiais/PerguntasRespostasDicas-2026.pdf)). O tipo de publicação é tratado nos critérios. Não há critério de idioma: o critério EX6 (idioma diferente de inglês ou português) foi removido na v0.3, seguindo a orientação de não excluir estudos apenas pelo idioma (Parte 3, p. 20). Ele não havia excluído nenhum registro da Scopus.
 
 ## 4. Critérios de seleção
 
@@ -49,10 +49,9 @@ Um estudo é **incluído** se atende a IN1 **ou** IN2 e a nenhum critério de ex
 | EX3 | Não relata causas nem estratégias de mitigação (foco exclusivo em detecção/predição/classificação, prevalência, impacto ou custo). |
 | EX4 | Não é estudo primário empírico (revisão, mapeamento, proposta conceitual ou sem avaliação empírica, opinião). |
 | EX5 | Não publicado em periódico ou conferência com revisão por pares (preprint, tese, dissertação, conjunto de dados, software, relatório técnico). |
-| EX6 | Idioma diferente de inglês ou português. |
 | DUP | Duplicata ou versão preliminar de estudo já presente (mantida a versão mais completa). |
 
-"Contexto de CI" significa que o estudo situa explicitamente os testes, os dados ou a estratégia em integração contínua (pipelines, *builds*, serviços de CI, testes pré/pós-*merge*). O acesso aberto **não** é critério; estudos cujo texto completo não pôde ser obtido são registrados como "não recuperados" e permanecem pendentes, não excluídos.
+"Contexto de CI" (regra estrita, confirmada pelo aluno na v0.3) significa que os dados foram coletados em CI, a estratégia foi aplicada ou avaliada em um *pipeline* de CI (*builds*, serviços de CI, testes pré/pós-*merge*, execuções disparadas por *build*), ou o estudo tem questão de pesquisa específica sobre CI. Estudos que citam a CI apenas como motivação ou implicação não atendem. Por isso, Silva et al. (2024) é incluído (RQ3 sobre custo de CI) e Kim et al. (2026) é excluído, embora os dois usem *clusters* próprios. O acesso aberto **não** é critério; estudos cujo texto completo não pôde ser obtido são registrados como "não recuperados" e permanecem pendentes, não excluídos.
 
 ## 5. Avaliação de qualidade
 
