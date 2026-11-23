@@ -74,15 +74,15 @@ Síntese qualitativa por agrupamento temático (*thematic synthesis*): causas ag
 | Triados por título e resumo | 86 |
 | Excluídos na triagem | 58 (EX1: 2; EX2: 24; EX3: 24; EX4: 8) |
 | Selecionados para texto completo | 28 |
-| Textos completos não recuperados | 16 (ver [extracao/README.md](extracao/README.md)) |
-| Avaliados na leitura completa | 12 (excluídos: 2) |
-| Incluídos | 10 |
+| Textos completos não recuperados | 14 (ver [extracao/README.md](extracao/README.md)) |
+| Avaliados na leitura completa | 14 (excluídos: 2) |
+| Incluídos | 12 |
 
 Decisões registro a registro: [dados/triagem-scopus.csv](dados/triagem-scopus.csv). A coluna `ficha` aponta para a ficha de extração em [extracao/](extracao/).
 
 ## 9. Recuperação dos textos completos
 
-Recuperação por vias de acesso aberto (editora, arXiv, repositórios institucionais, páginas dos autores) em 22/11/2026. Quando lida uma versão de autor/preprint de estudo publicado, isso é indicado na ficha; as páginas citadas referem-se à versão lida. PDFs ficam em `textos-completos/` (ignorado pelo Git).
+Recuperação por vias de acesso aberto (editora, arXiv, repositórios institucionais, páginas dos autores) e, para três estudos, por download feito pelo aluno, em 22/11/2026. Quando lida uma versão de autor/preprint de estudo publicado, isso é indicado na ficha; as páginas citadas referem-se à versão lida. PDFs ficam em `textos-completos/` (ignorado pelo Git).
 
 ## 10. Desvios e pendências
 
@@ -90,4 +90,4 @@ Recuperação por vias de acesso aberto (editora, arXiv, repositórios instituci
 2. **StArt não utilizada.** Não é um desvio: na aula de 02/10/2026 ([00:02:30]) foi dito que seu uso não é obrigatório, apenas recomendado. A triagem e a seleção foram registradas em CSV ([dados/triagem-scopus.csv](dados/triagem-scopus.csv)), com decisão e justificativa por registro.
 3. **Triagem e extração com apoio de IA**, sem segundo revisor humano até o momento — o aluno deve revisar todas as decisões.
 4. **Snowballing** não realizado, seguindo a orientação da disciplina de não usá-lo no TCC (Parte 3, p. 22). Não é um desvio; fica registrado como possível extensão.
-5. **Textos completos não recuperados** (16) devem ser obtidos via CAFe/UFSCar e avaliados. Dois deles (Leinen et al., 2024; Lampel et al., 2021) têm cópia aberta, mas o download automático foi bloqueado por verificação anti-robô.
+5. **Textos completos não recuperados** (14) devem ser obtidos via CAFe/UFSCar e avaliados. Os PDFs de Leinen et al. (2024), Lampel et al. (2021) e da versão publicada de Ahmad et al. (2021) foram obtidos pelo aluno em 22/11/2026.

@@ -102,3 +102,5 @@ Consultar o [inventário do Moodle](materiais-do-moodle.md), a [visão geral da 
 **Atualização de 22/11/2026 (protocolo v0.3):** a revisão passou a usar apenas a Scopus, consultada pela API com a chave do aluno. Foram 89 registros, 28 selecionados para leitura completa e 10 estudos incluídos; o novo incluído é Kumar (2026). A busca no OpenAlex ficou registrada como exploratória no [protocolo](revisao/protocolo.md).
 
 **Decisões de 22/11/2026 (protocolo v0.3):** o aluno adotou a regra estrita de contexto de CI, o que confirma a exclusão de Habchi et al. (2022) e Kim et al. (2026). Kumar (2026) foi mantido: o protocolo não tem critério de qualidade, e as fragilidades do estudo são declaradas no artigo. Ficam 10 estudos incluídos.
+
+**Atualização de 22/11/2026 (noite):** com os PDFs obtidos pelo aluno, Leinen, Perathoner e Pretschner (2024) e Lampel et al. (2021) foram lidos e incluídos por IN1, aplicando a regra estrita de contexto de CI. Ahmad et al. (2021) foi conferido na versão publicada da STVR. A revisão passa a ter 12 estudos incluídos e 14 textos não recuperados.
