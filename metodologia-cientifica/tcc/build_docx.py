@@ -30,6 +30,7 @@ HELV = '<w:rFonts w:ascii="Helvetica Neue" w:eastAsia="Helvetica Neue" w:hAnsi="
 def runs(text, base=""):
     """Converte *itálico* e **negrito** em runs WordprocessingML."""
     out = []
+    text = text.replace("\\*", "\x00")  # \* = asterisco literal (ex.: truncamento na string de busca)
     for tok in re.split(r"(\*\*[^*]+\*\*|\*[^*]+\*)", text):
         if not tok:
             continue
@@ -38,6 +39,7 @@ def runs(text, base=""):
             tok, rpr = tok[2:-2], base + "<w:b/>"
         elif tok.startswith("*"):
             tok, rpr = tok[1:-1], base + "<w:i/>"
+        tok = tok.replace("\x00", "*")
         out.append(f'<w:r><w:rPr>{rpr}<w:color w:val="000000"/></w:rPr><w:t xml:space="preserve">{escape(tok)}</w:t></w:r>')
     return "".join(out)
 

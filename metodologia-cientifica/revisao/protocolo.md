@@ -1,4 +1,4 @@
-# Protocolo da revisão sistemática — versão 0.1 (rascunho)
+# Protocolo da revisão sistemática — versão 0.3 (rascunho)
 
 > **Status:** rascunho preparado com apoio de IA em 22/11/2026 para avaliação do aluno. Nenhuma decisão aqui é definitiva até ser revisada e aceita pelo aluno. Os desvios em relação às orientações da disciplina estão listados na seção 10.
 
@@ -24,16 +24,11 @@ Subquestões de extração (de [tema-do-tcc.md](../tema-do-tcc.md)):
 
 ## 3. Fontes e estratégia de busca
 
-- **Fonte executada:** OpenAlex (API pública, `https://api.openalex.org/works`), filtro `title_and_abstract.search` (título e resumo). Executada em **22/11/2026**. Registros completos em [dados/busca-openalex-2026-11-22.json](dados/busca-openalex-2026-11-22.json).
-- **Fonte recomendada pela disciplina e ainda não executada:** Scopus. A API da Scopus retornou HTTP 401 sem credencial institucional; a busca deve ser reexecutada pelo aluno via CAFe com a string equivalente abaixo, e os resultados mesclados (com remoção de duplicatas) antes da versão final.
+- **Fonte:** Scopus, via Scopus Search API (`https://api.elsevier.com/content/search/scopus`, visão STANDARD), com chave de API do aluno. Executada em **22/11/2026**: 89 registros. Registros completos em [dados/busca-scopus-2026-11-22.json](dados/busca-scopus-2026-11-22.json). A chave não é armazenada no repositório.
+- A visão STANDARD não retorna resumos. Os resumos usados na triagem foram obtidos no OpenAlex pelo DOI ou pelo título de cada registro.
+- **Histórico (v0.1–v0.2):** antes do acesso à Scopus, uma busca equivalente foi executada no OpenAlex (156 registros; [dados/busca-openalex-2026-11-22.json](dados/busca-openalex-2026-11-22.json), triagem em [dados/triagem-titulo-resumo.csv](dados/triagem-titulo-resumo.csv)). Na v0.3, por decisão do aluno, a revisão passou a usar apenas a Scopus, a base indicada pela disciplina. Dos 89 registros da Scopus, 75 já haviam sido triados no OpenAlex com os mesmos critérios, e essas decisões foram reaproveitadas; os 14 restantes foram triados na v0.3. Registros que só aparecem no OpenAlex não fazem parte da revisão.
 
-**String executada no OpenAlex:**
-
-```
-("flaky test" OR "flaky tests" OR "test flakiness" OR "flaky build" OR "flaky builds" OR "intermittent test" OR "intermittent tests" OR "non-deterministic test" OR "non-deterministic tests" OR "nondeterministic test" OR "nondeterministic tests") AND ("continuous integration" OR "CI")
-```
-
-**String equivalente para a Scopus (a executar):**
+**String executada na Scopus:**
 
 ```
 TITLE-ABS-KEY ( ( "flaky test*" OR "test flakiness" OR "flaky build*" OR "intermittent test*" OR "non-deterministic test*" OR "nondeterministic test*" ) AND ( "continuous integration" OR "CI" ) )
@@ -61,19 +56,11 @@ Um estudo é **incluído** se atende a IN1 **ou** IN2 e a nenhum critério de ex
 
 ## 5. Avaliação de qualidade
 
-Cada estudo lido integralmente recebe 1 (sim), 0,5 (parcial) ou 0 (não) em:
-
-- **QA1** objetivo/questões de pesquisa claros;
-- **QA2** método empírico descrito de forma replicável;
-- **QA3** contexto (projetos/organização, linguagens, tipos de teste, CI) descrito;
-- **QA4** conclusões sustentadas pelos dados apresentados;
-- **QA5** ameaças à validade/limitações discutidas.
-
-A pontuação (0–5) é usada para ponderar a síntese, e não como critério de exclusão.
+Não realizada. A disciplina dispensa essa fase no TCC (Parte 3, p. 23). Uma pontuação QA1–QA5 chegou a ser atribuída na versão 0.1, mas foi descartada na versão 0.2 (22/11/2026) por decisão do aluno: os níveis de pontuação não tinham regra explícita e a nota não tinha uso definido na síntese. As seções de QA nas fichas de extração são registro histórico e não são usadas.
 
 ## 6. Formulário de extração
 
-Referência e versão lida; decisão e critérios; QA1–QA5; contexto (organização/OSS, linguagens, tipos de teste, sistema de CI, escala); definição de teste intermitente; método e amostra; causas (com página e trecho); estratégias de mitigação (descrição, causas tratadas, situação — avaliada / observada na prática / apenas recomendada —, resultados, custos, página e trecho); limitações; observações. Fichas em [extracao/](extracao/).
+Referência e versão lida; decisão e critérios; contexto (organização/OSS, linguagens, tipos de teste, sistema de CI, escala); definição de teste intermitente; método e amostra; causas (com página e trecho); estratégias de mitigação (descrição, causas tratadas, situação — avaliada / observada na prática / apenas recomendada —, resultados, custos, página e trecho); limitações; observações. Fichas em [extracao/](extracao/).
 
 ## 7. Síntese
 
@@ -83,25 +70,25 @@ Síntese qualitativa por agrupamento temático (*thematic synthesis*): causas ag
 
 | Etapa | Registros |
 |---|---|
-| Identificados (OpenAlex, 22/11/2026) | 156 |
-| Duplicatas removidas | 6 |
-| Triados por título e resumo | 150 |
-| Excluídos na triagem | 124 (EX1: 7; EX2: 37; EX3: 25; EX4: 20; EX5: 34; EX6: 1) |
-| Selecionados para texto completo | 26 |
-| Textos completos não recuperados | 13 (ver [extracao/README.md](extracao/README.md)) |
-| Avaliados na leitura completa | 13 (excluídos: 4) |
-| Incluídos | 9 |
+| Identificados (Scopus, 22/11/2026) | 89 |
+| Duplicatas removidas | 3 |
+| Triados por título e resumo | 86 |
+| Excluídos na triagem | 58 (EX1: 2; EX2: 24; EX3: 24; EX4: 8) |
+| Selecionados para texto completo | 28 |
+| Textos completos não recuperados | 16 (ver [extracao/README.md](extracao/README.md)) |
+| Avaliados na leitura completa | 12 (excluídos: 2) |
+| Incluídos | 10 |
 
-Decisões registro a registro: [dados/triagem-titulo-resumo.csv](dados/triagem-titulo-resumo.csv).
+Decisões registro a registro: [dados/triagem-scopus.csv](dados/triagem-scopus.csv). A coluna `ficha` aponta para a ficha de extração em [extracao/](extracao/).
 
 ## 9. Recuperação dos textos completos
 
-Recuperação apenas por vias de acesso aberto (arXiv, repositórios institucionais, páginas dos autores, SBC OpenLib), entre 22/11/2026. Quando lida uma versão de autor/preprint de estudo publicado, isso é indicado na ficha; as páginas citadas referem-se à versão lida. PDFs ficam em `textos-completos/` (ignorado pelo Git).
+Recuperação por vias de acesso aberto (editora, arXiv, repositórios institucionais, páginas dos autores) em 22/11/2026. Quando lida uma versão de autor/preprint de estudo publicado, isso é indicado na ficha; as páginas citadas referem-se à versão lida. PDFs ficam em `textos-completos/` (ignorado pelo Git).
 
 ## 10. Desvios e pendências
 
-1. **Scopus não executada** (sem credencial) — pendência obrigatória antes da versão final.
-2. **StArt não utilizada** nesta versão; a triagem foi registrada em CSV. As instruções escritas da disciplina descrevem o uso da StArt; em aula de 02/10 foi dito que seu uso não é obrigatório. Confirmar com a docente.
+1. **Fonte única (Scopus).** Segue a orientação da disciplina; IEEE Xplore e ACM DL ficam como possível extensão.
+2. **StArt não utilizada.** Não é um desvio: na aula de 02/10/2026 ([00:02:30]) foi dito que seu uso não é obrigatório, apenas recomendado. A triagem e a seleção foram registradas em CSV ([dados/triagem-scopus.csv](dados/triagem-scopus.csv)), com decisão e justificativa por registro.
 3. **Triagem e extração com apoio de IA**, sem segundo revisor humano até o momento — o aluno deve revisar todas as decisões.
-4. **Snowballing** não realizado.
-5. **Textos completos não recuperados** por acesso aberto devem ser obtidos via CAFe/UFSCar e avaliados.
+4. **Snowballing** não realizado, seguindo a orientação da disciplina de não usá-lo no TCC (Parte 3, p. 22). Não é um desvio; fica registrado como possível extensão.
+5. **Textos completos não recuperados** (16) devem ser obtidos via CAFe/UFSCar e avaliados. Dois deles (Leinen et al., 2024; Lampel et al., 2021) têm cópia aberta, mas o download automático foi bloqueado por verificação anti-robô.

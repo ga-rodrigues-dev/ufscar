@@ -98,3 +98,5 @@ As decisões e interpretações serão validadas pelo aluno.
 Consultar o [inventário do Moodle](materiais-do-moodle.md), a [visão geral da disciplina](00-disciplina.md) e a [Parte 1 — Alinhamentos Iniciais](materiais/Parte1-AlinhamentosIniciais2026.pdf), especialmente a página 11 sobre o escopo do estudo secundário. Requisitos de entrega e formatação devem ser conferidos nas orientações vigentes do curso.
 
 **Prazo (informado pelo aluno em 22/11/2026):** extensão concedida para entregar a versão para a banca até o fim de 23/11/2026.
+
+**Atualização de 22/11/2026 (protocolo v0.3):** a revisão passou a usar apenas a Scopus, consultada pela API com a chave do aluno. Foram 89 registros, 28 selecionados para leitura completa e 10 estudos incluídos; o novo incluído é Kumar (2026). A busca no OpenAlex ficou registrada como exploratória no [protocolo](revisao/protocolo.md).

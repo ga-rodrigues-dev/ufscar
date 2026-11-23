@@ -1,0 +1,5962 @@
+{
+ "fonte": "Scopus Search API (view STANDARD; sem resumos)",
+ "data_acesso": "2026-11-22",
+ "query": "TITLE-ABS-KEY((\"flaky test*\" OR \"test flakiness\" OR \"flaky build*\" OR \"intermittent test*\" OR \"non-deterministic test*\" OR \"nondeterministic test*\") AND (\"continuous integration\" OR \"CI\"))",
+ "total": 89,
+ "registros": [
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105053589363"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105053589363?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105053589363&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105053589363&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S016412122600381X"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105053589363",
+   "dc:identifier": "SCOPUS_ID:105053589363",
+   "eid": "2-s2.0-105053589363",
+   "dc:title": "CoDA-FTP: Conservative domain adaptation for cross-project flaky-test prediction",
+   "dc:creator": "Zhang Y.",
+   "prism:publicationName": "Journal of Systems and Software",
+   "prism:issn": "01641212",
+   "prism:volume": "245",
+   "prism:pageRange": null,
+   "prism:coverDate": "2027-03-01",
+   "prism:coverDisplayDate": "March 2027",
+   "prism:doi": "10.1016/j.jss.2026.113148",
+   "pii": "S016412122600381X",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Chongqing University",
+     "affiliation-city": "Chongqing",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "113148",
+   "source-id": "19309",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105052658881"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105052658881?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105052658881&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105052658881&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0164121226003511"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105052658881",
+   "dc:identifier": "SCOPUS_ID:105052658881",
+   "eid": "2-s2.0-105052658881",
+   "dc:title": "Detecting concurrency-related flaky tests in Android via event read-write conflicts",
+   "dc:creator": "Zhang W.",
+   "prism:publicationName": "Journal of Systems and Software",
+   "prism:issn": "01641212",
+   "prism:volume": "244",
+   "prism:pageRange": null,
+   "prism:coverDate": "2027-02-01",
+   "prism:coverDisplayDate": "February 2027",
+   "prism:doi": "10.1016/j.jss.2026.113118",
+   "pii": "S0164121226003511",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Beijing University of Chemical Technology",
+     "affiliation-city": "Beijing",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "113118",
+   "source-id": "19309",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105051666562"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105051666562?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105051666562&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105051666562&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0164121226003390"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105051666562",
+   "dc:identifier": "SCOPUS_ID:105051666562",
+   "eid": "2-s2.0-105051666562",
+   "dc:title": "A large-scale dynamic characterization of flaky tests in quantum software: The Qiskit Terra case study",
+   "dc:creator": "Kim D.",
+   "prism:publicationName": "Journal of Systems and Software",
+   "prism:issn": "01641212",
+   "prism:volume": "243",
+   "prism:pageRange": null,
+   "prism:coverDate": "2027-01-01",
+   "prism:coverDisplayDate": "January 2027",
+   "prism:doi": "10.1016/j.jss.2026.113106",
+   "pii": "S0164121226003390",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Maryland, Baltimore County (UMBC)",
+     "affiliation-city": "Baltimore",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "113106",
+   "source-id": "19309",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105039674848"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105039674848?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105039674848&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105039674848&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105039674848",
+   "dc:identifier": "SCOPUS_ID:105039674848",
+   "eid": "2-s2.0-105039674848",
+   "dc:title": "Is this build failure related to my patch? An empirical study of unrelated build failures in continuous integration",
+   "dc:creator": "Huang Y.A.",
+   "prism:publicationName": "Empirical Software Engineering",
+   "prism:issn": "13823256",
+   "prism:eIssn": "15737616",
+   "prism:volume": "31",
+   "prism:issueIdentifier": "6",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-11-01",
+   "prism:coverDisplayDate": "November 2026",
+   "prism:doi": "10.1007/s10664-026-10874-8",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Otago",
+     "affiliation-city": "Dunedin",
+     "affiliation-country": "New Zealand"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "Massey University",
+     "affiliation-city": "Palmerston North",
+     "affiliation-country": "New Zealand"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "148",
+   "source-id": "18650",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105055135576"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105055135576?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105055135576&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105055135576&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105055135576",
+   "dc:identifier": "SCOPUS_ID:105055135576",
+   "eid": "2-s2.0-105055135576",
+   "dc:title": "Doc2Test: An Industrial Multi-agent Framework for Document-Driven End-to-End Selenium Test Generation",
+   "dc:creator": "Lops A.",
+   "prism:publicationName": "Proceedings 2026 Proceedings of the 41st IEEE ACM International Conference on Automated Software Engineering Ase 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798400728822]"
+    }
+   ],
+   "prism:pageRange": "4186-4198",
+   "prism:coverDate": "2026-10-07",
+   "prism:coverDisplayDate": "7 October 2026",
+   "prism:doi": "10.1145/3832783.3834507",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Politecnico di Bari",
+     "affiliation-city": "Bari",
+     "affiliation-country": "Italy"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "Wideverse Srl",
+     "affiliation-city": "Bari",
+     "affiliation-country": "Italy"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101575867",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105048272564"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105048272564?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105048272564&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105048272564&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105048272564",
+   "dc:identifier": "SCOPUS_ID:105048272564",
+   "eid": "2-s2.0-105048272564",
+   "dc:title": "Bounded Self-Correction in Distributed Test Infrastructure: A Self-Healing Selenium Grid on Kubernetes",
+   "dc:creator": "Kumar S.",
+   "prism:publicationName": "Journal of Intelligent Decision Making and Information Science",
+   "prism:eIssn": "30790875",
+   "prism:volume": "3",
+   "prism:issueIdentifier": "8S",
+   "prism:pageRange": "299-310",
+   "prism:coverDate": "2026-08-06",
+   "prism:coverDisplayDate": "6 August 2026",
+   "prism:doi": "10.59543/jidmis.v3.2033",
+   "citedby-count": "0",
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "21101392299",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045841876"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045841876?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105045841876&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105045841876&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105045841876",
+   "dc:identifier": "SCOPUS_ID:105045841876",
+   "eid": "2-s2.0-105045841876",
+   "dc:title": "Predicting Intermittent Job Failure Categories for Diagnosis Using Few-Shot Fine-Tuned Language Models",
+   "dc:creator": "Aïdasso H.",
+   "prism:publicationName": "Fse Companion 2026 Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798400726361]"
+    }
+   ],
+   "prism:pageRange": "513-523",
+   "prism:coverDate": "2026-07-17",
+   "prism:coverDisplayDate": "17 July 2026",
+   "prism:doi": "10.1145/3803437.3805224",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "École de Technologie Supérieure",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101458360",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040519867"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040519867?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105040519867&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105040519867&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105040519867",
+   "dc:identifier": "SCOPUS_ID:105040519867",
+   "eid": "2-s2.0-105040519867",
+   "dc:title": "Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem",
+   "dc:creator": "Xiao T.",
+   "prism:publicationName": "IEEE Transactions on Software Engineering",
+   "prism:issn": "00985589",
+   "prism:eIssn": "19393520",
+   "prism:volume": "52",
+   "prism:issueIdentifier": "6",
+   "prism:pageRange": "1875-1890",
+   "prism:coverDate": "2026-06-01",
+   "prism:coverDisplayDate": "1 June 2026",
+   "prism:doi": "10.1109/TSE.2026.3685588",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Kyushu University",
+     "affiliation-city": "Fukuoka",
+     "affiliation-country": "Japan"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "18711",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105042733848"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105042733848?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105042733848&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105042733848&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105042733848",
+   "dc:identifier": "SCOPUS_ID:105042733848",
+   "eid": "2-s2.0-105042733848",
+   "dc:title": "Heterogeneous Graph Transformer with Multi-View Representation Learning for Flaky Test Detection",
+   "dc:creator": "Dai P.",
+   "prism:publicationName": "Computers",
+   "prism:eIssn": "2073431X",
+   "prism:volume": "15",
+   "prism:issueIdentifier": "6",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-06-01",
+   "prism:coverDisplayDate": "June 2026",
+   "prism:doi": "10.3390/computers15060372",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Chizhou University",
+     "affiliation-city": "Chizhou",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "372",
+   "source-id": "21100886391",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105030549305"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105030549305?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105030549305&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105030549305&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0950584926000595"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105030549305",
+   "dc:identifier": "SCOPUS_ID:105030549305",
+   "eid": "2-s2.0-105030549305",
+   "dc:title": "DeepFlaky: Deep hybrid representation learning for flaky test prediction",
+   "dc:creator": "Cai J.",
+   "prism:publicationName": "Information and Software Technology",
+   "prism:issn": "09505849",
+   "prism:volume": "193",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-05-01",
+   "prism:coverDisplayDate": "May 2026",
+   "prism:doi": "10.1016/j.infsof.2026.108070",
+   "pii": "S0950584926000595",
+   "citedby-count": "2",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Chongqing University",
+     "affiliation-city": "Chongqing",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "108070",
+   "source-id": "18732",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105056254603"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105056254603?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105056254603&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105056254603&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105056254603",
+   "dc:identifier": "SCOPUS_ID:105056254603",
+   "eid": "2-s2.0-105056254603",
+   "dc:title": "Systemic Flakiness: A Study of Flaky Test Failure Co-Occurrence Using Java and Python Projects",
+   "dc:creator": "Parry O.",
+   "prism:publicationName": "IEEE Transactions on Software Engineering",
+   "prism:issn": "00985589",
+   "prism:eIssn": "19393520",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/TSE.2026.3750452",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "The University of Edinburgh",
+     "affiliation-city": "Edinburgh",
+     "affiliation-country": "United Kingdom"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "18711",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045570184"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045570184?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105045570184&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105045570184&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105045570184",
+   "dc:identifier": "SCOPUS_ID:105045570184",
+   "eid": "2-s2.0-105045570184",
+   "dc:title": "Beyond Detection: Evaluating Flaky Test Fix Effectiveness",
+   "dc:creator": "Andreyev O.",
+   "prism:publicationName": "Proceedings 2026 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319546913]"
+    }
+   ],
+   "prism:pageRange": "54-55",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICSTW72326.2026.00022",
+   "citedby-count": "0",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101457875",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105048461298"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105048461298?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105048461298&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105048461298&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105048461298",
+   "dc:identifier": "SCOPUS_ID:105048461298",
+   "eid": "2-s2.0-105048461298",
+   "dc:title": "Detecting and Mitigating Flaky Tests in Continuous Integration A Decision Catalogue for Quality Engineering Teams",
+   "dc:creator": "Javvadi V.P.",
+   "prism:publicationName": "International Conference on Intelligent and Sustainable AI Systems Icosaas 2026 Conference Proceedings",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331579746]"
+    }
+   ],
+   "prism:pageRange": "1313-1320",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICOSAAS68663.2026.11648759",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Sdet",
+     "affiliation-city": "Ashburn",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101463209",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105050265778"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105050265778?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105050265778&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105050265778&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105050265778",
+   "dc:identifier": "SCOPUS_ID:105050265778",
+   "eid": "2-s2.0-105050265778",
+   "dc:title": "An Empirical Study of Detected and Undetected Flaky Test Failures in Real-World CI Pipelines",
+   "dc:creator": "Leinen F.",
+   "prism:publicationName": "IEEE Transactions on Software Engineering",
+   "prism:issn": "00985589",
+   "prism:eIssn": "19393520",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/TSE.2026.3729363",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Technische Universität München",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "18711",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045602040"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045602040?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105045602040&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105045602040&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105045602040",
+   "dc:identifier": "SCOPUS_ID:105045602040",
+   "eid": "2-s2.0-105045602040",
+   "dc:title": "The Good, the Bad, and the Flaky: A New Sheriff in Town to Manage Unstable Tests at Scale",
+   "dc:creator": "Jungwirth M.",
+   "prism:publicationName": "Proceedings 2026 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319546913]"
+    }
+   ],
+   "prism:pageRange": "49-53",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICSTW72326.2026.00021",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universität Passau",
+     "affiliation-city": "Passau",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101457875",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047197049"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047197049?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105047197049&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105047197049&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105047197049",
+   "dc:identifier": "SCOPUS_ID:105047197049",
+   "eid": "2-s2.0-105047197049",
+   "dc:title": "A Systematic Evaluation of Environmental Flakiness in JavaScript Tests",
+   "dc:creator": "Hashemi N.",
+   "prism:publicationName": "Proceedings 2026 IEEE International Conference on Software Testing Verification and Validation Icst 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319533081]"
+    }
+   ],
+   "prism:pageRange": "105-116",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICST69053.2026.00025",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Massey University",
+     "affiliation-city": "Palmerston North",
+     "affiliation-country": "New Zealand"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101460548",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047885794"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047885794?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105047885794&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105047885794&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105047885794",
+   "dc:identifier": "SCOPUS_ID:105047885794",
+   "eid": "2-s2.0-105047885794",
+   "dc:title": "Predicting Test Automation Failures using Machine Learning for Proactive Quality Engineering",
+   "dc:creator": "Kumari G.",
+   "prism:publicationName": "6th International Conference on Inventive Computation and Information Technologies Icicit 2026 Proceedings",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331550110]"
+    }
+   ],
+   "prism:pageRange": "1199-1203",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICICIT69063.2026.11634232",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Symbiosis Institute of Technology",
+     "affiliation-city": "Pune",
+     "affiliation-country": "India"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101462274",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105049060966"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105049060966?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105049060966&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105049060966&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105049060966",
+   "dc:identifier": "SCOPUS_ID:105049060966",
+   "eid": "2-s2.0-105049060966",
+   "dc:title": "AI-Driven Failure Management in CI/CD Pipelines: From Prediction to Remediation",
+   "dc:creator": "Bougad H.",
+   "prism:publicationName": "2026 International Conference on Circuit Systems and Communication Iccsc 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319533708]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICCSC71566.2026.11650055",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Université Abdelmalek Essaadi",
+     "affiliation-city": "Tetouan",
+     "affiliation-country": "Morocco"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101466217",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105039142105"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105039142105?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105039142105&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105039142105&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105039142105",
+   "dc:identifier": "SCOPUS_ID:105039142105",
+   "eid": "2-s2.0-105039142105",
+   "dc:title": "AI-augmented reliability in CI/CD: a framework for predictive, adaptive, and self-correcting pipelines",
+   "dc:creator": "Dhawan R.",
+   "prism:publicationName": "Frontiers in Artificial Intelligence",
+   "prism:eIssn": "26248212",
+   "prism:volume": "9",
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.3389/frai.2026.1776546",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Independent Researcher",
+     "affiliation-city": "Edmonds",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "1776546",
+   "source-id": "21101062817",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryvor"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040389702"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040389702?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105040389702&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105040389702&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105040389702",
+   "dc:identifier": "SCOPUS_ID:105040389702",
+   "eid": "2-s2.0-105040389702",
+   "dc:title": "Energy-Efficient Test Automation in Banking: Towards Sustainable CI/CD Pipelines",
+   "dc:creator": "Manchuri B.",
+   "prism:publicationName": "Lecture Notes in Networks and Systems",
+   "prism:issn": "23673370",
+   "prism:eIssn": "23673389",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9783032229137]"
+    }
+   ],
+   "prism:volume": "1927 LNNS",
+   "prism:pageRange": "225-242",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1007/978-3-032-22914-4_18",
+   "citedby-count": "0",
+   "prism:aggregationType": "Book Series",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100901469",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105042196529"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105042196529?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105042196529&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105042196529&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105042196529",
+   "dc:identifier": "SCOPUS_ID:105042196529",
+   "eid": "2-s2.0-105042196529",
+   "dc:title": "An Empirical Study of Defect Detectability and Operational Impact of Component vs. End-to-End Testing in Regulated Banking CI/CD Pipelines",
+   "dc:creator": "Manchuri B.",
+   "prism:publicationName": "2026 International Conference on Artificial Intelligence Systems and Emerging Technologies Icaiset 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331592561]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICAISET66439.2026.11541699",
+   "citedby-count": "0",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101450202",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047230190"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105047230190?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105047230190&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105047230190&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105047230190",
+   "dc:identifier": "SCOPUS_ID:105047230190",
+   "eid": "2-s2.0-105047230190",
+   "dc:title": "DANTE: Data-Driven Test Case Selection and Prioritization for Long-Running Test Suites",
+   "dc:creator": "Reale S.",
+   "prism:publicationName": "Proceedings 2026 IEEE International Conference on Software Testing Verification and Validation Icst 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319533081]"
+    }
+   ],
+   "prism:pageRange": "577-588",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICST69053.2026.00080",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Politecnico di Milano",
+     "affiliation-city": "Milan",
+     "affiliation-country": "Italy"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101460548",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105055168279"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105055168279?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105055168279&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105055168279&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105055168279",
+   "dc:identifier": "SCOPUS_ID:105055168279",
+   "eid": "2-s2.0-105055168279",
+   "dc:title": "MAAT: Applied Computational Intelligence for Autonomous Software Testing via Deep Learning, Reinforcement Learning and Knowledge-Based Reasoning",
+   "dc:creator": "Pasupuleti V.",
+   "prism:publicationName": "2026 IEEE 5th World Conference on Applied Intelligence and Computing Aic 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319518996]"
+    }
+   ],
+   "prism:pageRange": "1293-1299",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/AIC70896.2026.11716880",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "International Business Machines",
+     "affiliation-city": "Armonk",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101575870",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045602854"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105045602854?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105045602854&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105045602854&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105045602854",
+   "dc:identifier": "SCOPUS_ID:105045602854",
+   "eid": "2-s2.0-105045602854",
+   "dc:title": "The Hidden Costs of Evaluating Automated CI Repair at SAP HANA",
+   "dc:creator": "Yun S.",
+   "prism:publicationName": "Proceedings 2026 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2026",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798319546913]"
+    }
+   ],
+   "prism:pageRange": "61-64",
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/ICSTW72326.2026.00025",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "SAP Labs Korea Inc.",
+     "affiliation-city": "Seoul",
+     "affiliation-country": "South Korea"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101457875",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040747536"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105040747536?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105040747536&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105040747536&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105040747536",
+   "dc:identifier": "SCOPUS_ID:105040747536",
+   "eid": "2-s2.0-105040747536",
+   "dc:title": "Predictive Quality Engineering in Distributed Data Platforms Using Machine Learning",
+   "dc:creator": "Mehta J.B.",
+   "prism:publicationName": "Syscon 2026 the 20th Annual IEEE International Systems Conference Conference Proceedings",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331591519]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2026-01-01",
+   "prism:coverDisplayDate": "2026",
+   "prism:doi": "10.1109/SysCon66367.2026.11503610",
+   "citedby-count": "1",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101447787",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105005029137"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105005029137?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105005029137&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105005029137&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105005029137",
+   "dc:identifier": "SCOPUS_ID:105005029137",
+   "eid": "2-s2.0-105005029137",
+   "dc:title": "An empirical study of test case prioritization on the Linux Kernel",
+   "dc:creator": "Wang H.",
+   "prism:publicationName": "Automated Software Engineering",
+   "prism:issn": "09288910",
+   "prism:eIssn": "15737535",
+   "prism:volume": "32",
+   "prism:issueIdentifier": "2",
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-11-01",
+   "prism:coverDisplayDate": "November 2025",
+   "prism:doi": "10.1007/s10515-025-00522-8",
+   "citedby-count": "3",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Tianjin University",
+     "affiliation-city": "Tianjin",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "49",
+   "source-id": "24145",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023984829"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023984829?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023984829&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105023984829&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2665963825000545"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105023984829",
+   "dc:identifier": "SCOPUS_ID:105023984829",
+   "eid": "2-s2.0-105023984829",
+   "dc:title": "MDFlaker: A tool for multi-factor detection and root cause analysis of flaky tests",
+   "dc:creator": "Ahmad A.",
+   "prism:publicationName": "Software Impacts",
+   "prism:eIssn": "26659638",
+   "prism:volume": "26",
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-10-01",
+   "prism:coverDisplayDate": "October 2025",
+   "prism:doi": "10.1016/j.simpa.2025.100794",
+   "pii": "S2665963825000545",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Prince Sultan University",
+     "affiliation-city": "Riyadh",
+     "affiliation-country": "Saudi Arabia"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "100794",
+   "source-id": "21101060167",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020376552"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020376552?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020376552&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020376552&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020376552",
+   "dc:identifier": "SCOPUS_ID:105020376552",
+   "eid": "2-s2.0-105020376552",
+   "dc:title": "Build Optimization: A Systematic Literature Review",
+   "dc:creator": "Aïdasso H.",
+   "prism:publicationName": "ACM Computing Surveys",
+   "prism:issn": "03600300",
+   "prism:eIssn": "15577341",
+   "prism:volume": "58",
+   "prism:issueIdentifier": "1",
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-09-02",
+   "prism:coverDisplayDate": "2 September 2025",
+   "prism:doi": "10.1145/3757912",
+   "citedby-count": "4",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "École de Technologie Supérieure",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "re",
+   "subtypeDescription": "Review",
+   "article-number": "12",
+   "source-id": "23038",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfree2read"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Bronze"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007992809"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007992809?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007992809&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105007992809&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105007992809",
+   "dc:identifier": "SCOPUS_ID:105007992809",
+   "eid": "2-s2.0-105007992809",
+   "dc:title": "Detection of HIV-1 Antibodies in Saliva of Persons Living With HIV Using Blood-Based First Response HIV 1-2.O Card Test",
+   "dc:creator": "Aninagyei E.",
+   "prism:publicationName": "Journal of Clinical Laboratory Analysis",
+   "prism:issn": "08878013",
+   "prism:eIssn": "10982825",
+   "prism:volume": "39",
+   "prism:issueIdentifier": "15",
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-08-01",
+   "prism:coverDisplayDate": "August 2025",
+   "prism:doi": "10.1002/jcla.70069",
+   "citedby-count": "1",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Health and Allied Sciences, Ghana",
+     "affiliation-city": "Ho",
+     "affiliation-country": "Ghana"
+    }
+   ],
+   "pubmed-id": "40503652",
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "e70069",
+   "source-id": "27226",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryvor"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85207525097"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85207525097?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85207525097&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85207525097&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85207525097",
+   "dc:identifier": "SCOPUS_ID:85207525097",
+   "eid": "2-s2.0-85207525097",
+   "dc:title": "How and why developers implement OS-specific tests",
+   "dc:creator": "Job R.",
+   "prism:publicationName": "Empirical Software Engineering",
+   "prism:issn": "13823256",
+   "prism:eIssn": "15737616",
+   "prism:volume": "30",
+   "prism:issueIdentifier": "1",
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-02-01",
+   "prism:coverDisplayDate": "February 2025",
+   "prism:doi": "10.1007/s10664-024-10571-4",
+   "citedby-count": "3",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade Federal de Minas Gerais",
+     "affiliation-city": "Belo Horizonte",
+     "affiliation-country": "Brazil"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "Instituto Federal da Paraíba (IFPB)",
+     "affiliation-city": "Cajazeiras",
+     "affiliation-country": "Brazil"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "8",
+   "source-id": "18650",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023883255"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023883255?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023883255&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105023883255&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105023883255",
+   "dc:identifier": "SCOPUS_ID:105023883255",
+   "eid": "2-s2.0-105023883255",
+   "dc:title": "Base, Instruct, and Fine-Tune: Evaluating LLMs for Cross-Language Flaky Test Detection",
+   "dc:creator": "Ahmad A.",
+   "prism:publicationName": "IEEE Access",
+   "prism:eIssn": "21693536",
+   "prism:volume": "13",
+   "prism:pageRange": "205254-205277",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ACCESS.2025.3639645",
+   "citedby-count": "1",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Prince Sultan University",
+     "affiliation-city": "Riyadh",
+     "affiliation-country": "Saudi Arabia"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "21100374601",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004728302"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004728302?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105004728302&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105004728302&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105004728302",
+   "dc:identifier": "SCOPUS_ID:105004728302",
+   "eid": "2-s2.0-105004728302",
+   "dc:title": "The Art of Managing Flaky Tests at Scale",
+   "dc:creator": "Andreyev O.",
+   "prism:publicationName": "2025 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331534677]"
+    }
+   ],
+   "prism:pageRange": "161-162",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICSTW64639.2025.10962486",
+   "citedby-count": "2",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101294441",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105011032676"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105011032676?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011032676&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105011032676&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105011032676",
+   "dc:identifier": "SCOPUS_ID:105011032676",
+   "eid": "2-s2.0-105011032676",
+   "dc:title": "Reduction of Test Re-runs by Prioritizing Potential Order Dependent Flaky Tests",
+   "dc:creator": "Iqbal H.",
+   "prism:publicationName": "Proceedings 2025 IEEE ACM International Flaky Tests Workshop Ftw 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331502317]"
+    }
+   ],
+   "prism:pageRange": "1-8",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/FTW66604.2025.00006",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Dhaka",
+     "affiliation-city": "Dhaka",
+     "affiliation-country": "Bangladesh"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101313981",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105016218817"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105016218817?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105016218817&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105016218817&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105016218817",
+   "dc:identifier": "SCOPUS_ID:105016218817",
+   "eid": "2-s2.0-105016218817",
+   "dc:title": "Enhancing Adaptive Test Healing with Graph Neural Networks for Dependency-Aware Decision Making",
+   "dc:creator": "Mani N.",
+   "prism:publicationName": "Proceedings 2025 IEEE International Conference on Artificial Intelligence Testing Aitest 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331589134]"
+    }
+   ],
+   "prism:pageRange": "126-133",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/AITest66680.2025.00023",
+   "citedby-count": "4",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Nutrosal Inc.",
+     "affiliation-city": "Ottawa",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101331292",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004735212"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004735212?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105004735212&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105004735212&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105004735212",
+   "dc:identifier": "SCOPUS_ID:105004735212",
+   "eid": "2-s2.0-105004735212",
+   "dc:title": "Adaptive Test Healing using LLM/GPT and Reinforcement Learning",
+   "dc:creator": "Mani N.",
+   "prism:publicationName": "2025 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331534677]"
+    }
+   ],
+   "prism:pageRange": "9-16",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICSTW64639.2025.10962516",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Nutrosal Inc.",
+     "affiliation-city": "Ottawa",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101294441",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007534679"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007534679?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007534679&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105007534679&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105007534679",
+   "dc:identifier": "SCOPUS_ID:105007534679",
+   "eid": "2-s2.0-105007534679",
+   "dc:title": "Code, Test, and Coverage Evolution in Mature Software Systems: Changes Over the Past Decade",
+   "dc:creator": "Bailey T.",
+   "prism:publicationName": "2025 IEEE Conference on Software Testing Verification and Validation Icst 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331508142]"
+    }
+   ],
+   "prism:pageRange": "210-220",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICST62969.2025.10989006",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Imperial College London",
+     "affiliation-city": "London",
+     "affiliation-country": "United Kingdom"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101300343",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105036948765"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105036948765?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105036948765&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105036948765&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105036948765",
+   "dc:identifier": "SCOPUS_ID:105036948765",
+   "eid": "2-s2.0-105036948765",
+   "dc:title": "Designing Self-Healing Automation Frameworks for Flaky CI Environments",
+   "dc:creator": "Mehta J.B.",
+   "prism:publicationName": "International Conference on Computer and Applications Icca 2025 Proceedings",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331599539]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICCA66035.2025.11430985",
+   "citedby-count": "0",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101441646",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004724011"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105004724011?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105004724011&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105004724011&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105004724011",
+   "dc:identifier": "SCOPUS_ID:105004724011",
+   "eid": "2-s2.0-105004724011",
+   "dc:title": "2025 IEEE International Conference on Software Testing, Verification and Validation Workshops, ICSTW 2025",
+   "prism:publicationName": "2025 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331534677]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "citedby-count": "0",
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cr",
+   "subtypeDescription": "Conference Review",
+   "source-id": "21101294441",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105016165220"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105016165220?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105016165220&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105016165220&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105016165220",
+   "dc:identifier": "SCOPUS_ID:105016165220",
+   "eid": "2-s2.0-105016165220",
+   "dc:title": "GraphQL-Aware Healing in Service-Oriented Architectures via Multi-Signal Learning",
+   "dc:creator": "Mani N.",
+   "prism:publicationName": "Proceedings 19th IEEE International Conference on Service Oriented System Engineering Sose 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331589110]"
+    }
+   ],
+   "prism:pageRange": "140-150",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/SOSE67019.2025.00021",
+   "citedby-count": "3",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Nutrosal Inc.",
+     "affiliation-city": "Ottawa",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101331293",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105035844582"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105035844582?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105035844582&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105035844582&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105035844582",
+   "dc:identifier": "SCOPUS_ID:105035844582",
+   "eid": "2-s2.0-105035844582",
+   "dc:title": "AI Augmented CI/CD Pipelines: From Code Commit to Production with Autonomous Decisions",
+   "dc:creator": "Baqar M.",
+   "prism:publicationName": "2025 3rd International Conference on Foundation and Large Language Models Fllm 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331594091]"
+    }
+   ],
+   "prism:pageRange": "1041-1048",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/FLLM67465.2025.11391007",
+   "citedby-count": "2",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "JMI University",
+     "affiliation-city": null,
+     "affiliation-country": "India"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101439852",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105031910858"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105031910858?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105031910858&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105031910858&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105031910858",
+   "dc:identifier": "SCOPUS_ID:105031910858",
+   "eid": "2-s2.0-105031910858",
+   "dc:title": "Twin Pipeline: AI Sibling of CI/CD",
+   "dc:creator": "Salvi Y.",
+   "prism:publicationName": "2025 9th International Conference on Computing Communication Control and Automation Icccbea 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331549039]"
+    }
+   ],
+   "prism:pageRange": null,
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICCUBEA65967.2025.11283703",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Siemens AG",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101397065",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105022435590"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105022435590?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022435590&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105022435590&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105022435590",
+   "dc:identifier": "SCOPUS_ID:105022435590",
+   "eid": "2-s2.0-105022435590",
+   "dc:title": "Efficient Detection of Intermittent Job Failures Using Few-Shot Learning",
+   "dc:creator": "Aidasso H.",
+   "prism:publicationName": "Proceedings 2025 IEEE International Conference on Software Maintenance and Evolution Icsme 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331595876]"
+    }
+   ],
+   "prism:pageRange": "632-643",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICSME64153.2025.00064",
+   "citedby-count": "2",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "École de Technologie Supérieure",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101362455",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007538980"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007538980?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007538980&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105007538980&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105007538980",
+   "dc:identifier": "SCOPUS_ID:105007538980",
+   "eid": "2-s2.0-105007538980",
+   "dc:title": "Challenges, Strategies, and Impacts: A Qualitative Study on UI Testing in CI/CD Processes from GitHub Developers' Perspectives",
+   "dc:creator": "Gan X.",
+   "prism:publicationName": "2025 IEEE Conference on Software Testing Verification and Validation Icst 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331508142]"
+    }
+   ],
+   "prism:pageRange": "186-197",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICST62969.2025.10988972",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Virginia Polytechnic Institute and State University",
+     "affiliation-city": "Blacksburg",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101300343",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007502645"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105007502645?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007502645&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105007502645&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105007502645",
+   "dc:identifier": "SCOPUS_ID:105007502645",
+   "eid": "2-s2.0-105007502645",
+   "dc:title": "Practical Pipeline-Aware Regression Test Optimization for Continuous Integration",
+   "dc:creator": "Schwendner D.",
+   "prism:publicationName": "2025 IEEE Conference on Software Testing Verification and Validation Icst 2025",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798331508142]"
+    }
+   ],
+   "prism:pageRange": "371-381",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "2025",
+   "prism:doi": "10.1109/ICST62969.2025.10989002",
+   "citedby-count": "7",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Bavarian Motor Works Group",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101300343",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105024783621"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/105024783621?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105024783621&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105024783621&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105024783621",
+   "dc:identifier": "SCOPUS_ID:105024783621",
+   "eid": "2-s2.0-105024783621",
+   "dc:title": "MACHINE LEARNING-DRIVEN IMPROVEMENTS IN SOFTWARE DELIVERY PIPELINES",
+   "dc:creator": "Sridivya R.",
+   "prism:publicationName": "Journal of Theoretical and Applied Information Technology",
+   "prism:issn": "19928645",
+   "prism:eIssn": "18173195",
+   "prism:volume": "103",
+   "prism:issueIdentifier": "19",
+   "prism:pageRange": "8062-8072",
+   "prism:coverDate": "2025-01-01",
+   "prism:coverDisplayDate": "January 2025",
+   "citedby-count": "1",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Aditya University",
+     "affiliation-city": "Surampalem",
+     "affiliation-country": "India"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "19700182903",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85212434815"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85212434815?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212434815&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85212434815&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85212434815",
+   "dc:identifier": "SCOPUS_ID:85212434815",
+   "eid": "2-s2.0-85212434815",
+   "dc:title": "The Importance of Accounting for Execution Failures when Predicting Test Flakiness",
+   "dc:creator": "Haben G.",
+   "prism:publicationName": "Proceedings 2024 39th ACM IEEE International Conference on Automated Software Engineering Ase 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798400712487]"
+    }
+   ],
+   "prism:pageRange": "1979-1989",
+   "prism:coverDate": "2024-10-27",
+   "prism:coverDisplayDate": "27 October 2024",
+   "prism:doi": "10.1145/3691620.3695261",
+   "citedby-count": "10",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Luxembourg",
+     "affiliation-city": "Esch-sur-Alzette",
+     "affiliation-country": "Luxembourg"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101264318",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85210590522"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85210590522?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85210590522&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85210590522&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85210590522",
+   "dc:identifier": "SCOPUS_ID:85210590522",
+   "eid": "2-s2.0-85210590522",
+   "dc:title": "Do Test and Environmental Complexity Increase Flakiness? An Empirical Study of SAP HANA",
+   "dc:creator": "Berndt A.",
+   "prism:publicationName": "International Symposium on Empirical Software Engineering and Measurement",
+   "prism:issn": "19493770",
+   "prism:eIssn": "19493789",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798400710476]"
+    }
+   ],
+   "prism:pageRange": "572-581",
+   "prism:coverDate": "2024-10-24",
+   "prism:coverDisplayDate": "24 October 2024",
+   "prism:doi": "10.1145/3674805.3695407",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "SAP",
+     "affiliation-city": null,
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100199538",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85203152189"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85203152189?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85203152189&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85203152189&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85203152189",
+   "dc:identifier": "SCOPUS_ID:85203152189",
+   "eid": "2-s2.0-85203152189",
+   "dc:title": "On the Impact of Hitting System Resource Limits on Test Flakiness",
+   "dc:creator": "Leinen F.",
+   "prism:publicationName": "Proceedings 2024 IEEE ACM International Flaky Tests Workshop Ftw 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798400705588]"
+    }
+   ],
+   "prism:pageRange": "14-19",
+   "prism:coverDate": "2024-08-08",
+   "prism:coverDisplayDate": "8 August 2024",
+   "prism:doi": "10.1145/3643656.3643898",
+   "citedby-count": "2",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Technische Universität München",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101246453",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85217019978"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85217019978?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85217019978&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85217019978&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85217019978",
+   "dc:identifier": "SCOPUS_ID:85217019978",
+   "eid": "2-s2.0-85217019978",
+   "dc:title": "Practical Flaky Test Prediction using Common Code Evolution and Test History Data",
+   "dc:creator": "Gruber M.",
+   "prism:publicationName": "Lecture Notes in Informatics Lni Proceedings Series of the Gesellschaft Fur Informatik Gi",
+   "prism:issn": "16175468",
+   "prism:eIssn": "29447682",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9783885797371]"
+    }
+   ],
+   "prism:volume": "P-343",
+   "prism:pageRange": "105-106",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.18420/sw2024_32",
+   "citedby-count": "0",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universität Passau",
+     "affiliation-city": "Passau",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100229106",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85202184751"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85202184751?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85202184751&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85202184751&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85202184751",
+   "dc:identifier": "SCOPUS_ID:85202184751",
+   "eid": "2-s2.0-85202184751",
+   "dc:title": "Cost of Flaky Tests in Continuous Integration: An Industrial Case Study",
+   "dc:creator": "Leinen F.",
+   "prism:publicationName": "Proceedings 2024 IEEE Conference on Software Testing Verification and Validation Icst 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350308181]"
+    }
+   ],
+   "prism:pageRange": "329-340",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.1109/ICST60714.2024.00037",
+   "citedby-count": "16",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Technische Universität München",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101248193",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85204468426"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85204468426?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204468426&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85204468426&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85204468426",
+   "dc:identifier": "SCOPUS_ID:85204468426",
+   "eid": "2-s2.0-85204468426",
+   "dc:title": "The Effects of Computational Resources on Flaky Tests",
+   "dc:creator": "Silva D.",
+   "prism:publicationName": "IEEE Transactions on Software Engineering",
+   "prism:issn": "00985589",
+   "prism:eIssn": "19393520",
+   "prism:volume": "50",
+   "prism:issueIdentifier": "12",
+   "prism:pageRange": "3104-3121",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.1109/TSE.2024.3462251",
+   "citedby-count": "7",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade Federal de Pernambuco",
+     "affiliation-city": "Recife",
+     "affiliation-country": "Brazil"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "18711",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85215527963"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85215527963?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215527963&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85215527963&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85215527963",
+   "dc:identifier": "SCOPUS_ID:85215527963",
+   "eid": "2-s2.0-85215527963",
+   "dc:title": "Just-in-Time Flaky Test Detection via Abstracted Failure Symptom Matching",
+   "dc:creator": "An G.",
+   "prism:publicationName": "Proceedings 2024 IEEE International Conference on Software Maintenance and Evolution Icsme 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350395686]"
+    }
+   ],
+   "prism:pageRange": "741-752",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.1109/ICSME58944.2024.00078",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Korea Advanced Institute of Science and Technology",
+     "affiliation-city": "Daejeon",
+     "affiliation-country": "South Korea"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101270297",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85205975669"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85205975669?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205975669&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85205975669&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85205975669",
+   "dc:identifier": "SCOPUS_ID:85205975669",
+   "eid": "2-s2.0-85205975669",
+   "dc:title": "The Effects of Computational Resources on Flaky Tests",
+   "dc:creator": "Silva D.",
+   "prism:publicationName": "Proceedings 2024 IEEE International Conference on Software Testing Verification and Validation Workshops Icstw 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350344790]"
+    }
+   ],
+   "prism:pageRange": "101",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.1109/ICSTW60967.2024.00027",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade Federal de Pernambuco",
+     "affiliation-city": "Recife",
+     "affiliation-country": "Brazil"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101252538",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85190068583"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85190068583?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85190068583&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85190068583&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85190068583",
+   "dc:identifier": "SCOPUS_ID:85190068583",
+   "eid": "2-s2.0-85190068583",
+   "dc:title": "A survey of Detecting Flakiness in Automated Test Regression Suite",
+   "dc:creator": "Elgazzar M.",
+   "prism:publicationName": "21st International Learning and Technology Conference Reality and Science Fiction in Education L and T 2024",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350393569]"
+    }
+   ],
+   "prism:pageRange": "330-336",
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "2024",
+   "prism:doi": "10.1109/LT60077.2024.10469624",
+   "citedby-count": "2",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Faculty of Computers and Information",
+     "affiliation-city": "Cairo",
+     "affiliation-country": "Egypt"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101213722",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85172121967"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85172121967?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85172121967&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85172121967&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85172121967",
+   "dc:identifier": "SCOPUS_ID:85172121967",
+   "eid": "2-s2.0-85172121967",
+   "dc:title": "Semantic-aware two-phase test case prioritization for continuous integration",
+   "dc:creator": "Li Y.",
+   "prism:publicationName": "Software Testing Verification and Reliability",
+   "prism:issn": "09600833",
+   "prism:eIssn": "10991689",
+   "prism:volume": "34",
+   "prism:issueIdentifier": "1",
+   "prism:pageRange": null,
+   "prism:coverDate": "2024-01-01",
+   "prism:coverDisplayDate": "January 2024",
+   "prism:doi": "10.1002/stvr.1864",
+   "citedby-count": "6",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Southwest Minzu University",
+     "affiliation-city": "Chengdu",
+     "affiliation-country": "China"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "e1864",
+   "source-id": "20432",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171836682"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85171836682?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171836682&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85171836682&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85171836682",
+   "dc:identifier": "SCOPUS_ID:85171836682",
+   "eid": "2-s2.0-85171836682",
+   "dc:title": "FlaPy: Mining Flaky Python Tests at Scale",
+   "dc:creator": "Gruber M.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350322637]"
+    }
+   ],
+   "prism:pageRange": "127-131",
+   "prism:coverDate": "2023-07-27",
+   "prism:coverDisplayDate": "27 July 2023",
+   "prism:doi": "10.1109/ICSE-Companion58688.2023.00039",
+   "citedby-count": "7",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universität Passau",
+     "affiliation-city": "Passau",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "19242",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85156264982"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85156264982?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85156264982&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85156264982&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85156264982",
+   "dc:identifier": "SCOPUS_ID:85156264982",
+   "eid": "2-s2.0-85156264982",
+   "dc:title": "Empirically evaluating flaky test detection techniques combining test case rerunning and machine learning models",
+   "dc:creator": "Parry O.",
+   "prism:publicationName": "Empirical Software Engineering",
+   "prism:issn": "13823256",
+   "prism:eIssn": "15737616",
+   "prism:volume": "28",
+   "prism:issueIdentifier": "3",
+   "prism:pageRange": null,
+   "prism:coverDate": "2023-05-01",
+   "prism:coverDisplayDate": "May 2023",
+   "prism:doi": "10.1007/s10664-023-10307-w",
+   "citedby-count": "25",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "The University of Sheffield",
+     "affiliation-city": "Sheffield",
+     "affiliation-country": "United Kingdom"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "72",
+   "source-id": "18650",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161958128"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161958128?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85161958128&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85161958128&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85161958128",
+   "dc:identifier": "SCOPUS_ID:85161958128",
+   "eid": "2-s2.0-85161958128",
+   "dc:title": "Flake Aware Culprit Finding",
+   "dc:creator": "Henderson T.A.D.",
+   "prism:publicationName": "Proceedings 2023 IEEE 16th International Conference on Software Testing Verification and Validation Icst 2023",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665456661]"
+    }
+   ],
+   "prism:pageRange": "362-373",
+   "prism:coverDate": "2023-01-01",
+   "prism:coverDisplayDate": "2023",
+   "prism:doi": "10.1109/ICST57152.2023.00041",
+   "citedby-count": "8",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Google LLC",
+     "affiliation-city": "Mountain View",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101157724",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165999620"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85165999620?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85165999620&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85165999620&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85165999620",
+   "dc:identifier": "SCOPUS_ID:85165999620",
+   "eid": "2-s2.0-85165999620",
+   "dc:title": "FlakyCat: Predicting Flaky Tests Categories using Few-Shot Learning",
+   "dc:creator": "Akli A.",
+   "prism:publicationName": "Proceedings 2023 IEEE ACM International Conference on Automation of Software Test Ast 2023",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9798350324020]"
+    }
+   ],
+   "prism:pageRange": "140-151",
+   "prism:coverDate": "2023-01-01",
+   "prism:coverDisplayDate": "2023",
+   "prism:doi": "10.1109/AST58925.2023.00018",
+   "citedby-count": "25",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Luxembourg",
+     "affiliation-city": "Esch-sur-Alzette",
+     "affiliation-country": "Luxembourg"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101167592",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161932253"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85161932253?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85161932253&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85161932253&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85161932253",
+   "dc:identifier": "SCOPUS_ID:85161932253",
+   "eid": "2-s2.0-85161932253",
+   "dc:title": "Practical Flaky Test Prediction using Common Code Evolution and Test History Data",
+   "dc:creator": "Gruber M.",
+   "prism:publicationName": "Proceedings 2023 IEEE 16th International Conference on Software Testing Verification and Validation Icst 2023",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665456661]"
+    }
+   ],
+   "prism:pageRange": "210-221",
+   "prism:coverDate": "2023-01-01",
+   "prism:coverDisplayDate": "2023",
+   "prism:doi": "10.1109/ICST57152.2023.00028",
+   "citedby-count": "15",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universität Passau",
+     "affiliation-city": "Passau",
+     "affiliation-country": "Germany"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "Bavarian Motor Works Group",
+     "affiliation-city": "Munich",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101157724",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132814365"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132814365?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132814365&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85132814365&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85132814365",
+   "dc:identifier": "SCOPUS_ID:85132814365",
+   "eid": "2-s2.0-85132814365",
+   "dc:title": "Surveying the Developer Experience of Flaky Tests",
+   "dc:creator": "Parry O.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450392266]"
+    }
+   ],
+   "prism:pageRange": "253-262",
+   "prism:coverDate": "2022-10-17",
+   "prism:coverDisplayDate": "17 October 2022",
+   "prism:doi": "10.1109/ICSE-SEIP55303.2022.9793965",
+   "citedby-count": "29",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "The University of Sheffield",
+     "affiliation-city": "Sheffield",
+     "affiliation-country": "United Kingdom"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "19242",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132828166"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132828166?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132828166&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85132828166&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85132828166",
+   "dc:identifier": "SCOPUS_ID:85132828166",
+   "eid": "2-s2.0-85132828166",
+   "dc:title": "The Impact of Flaky Tests on Historical Test Prioritization on Chrome",
+   "dc:creator": "Fallahzadeh E.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450392266]"
+    }
+   ],
+   "prism:pageRange": "273-282",
+   "prism:coverDate": "2022-10-17",
+   "prism:coverDisplayDate": "17 October 2022",
+   "prism:doi": "10.1109/ICSE-SEIP55303.2022.9793941",
+   "citedby-count": "13",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Concordia University",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "19242",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133933090"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133933090?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133933090&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85133933090&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0950584922001070"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85133933090",
+   "dc:identifier": "SCOPUS_ID:85133933090",
+   "eid": "2-s2.0-85133933090",
+   "dc:title": "A deep learning-based automated framework for functional User Interface testing",
+   "dc:creator": "Khaliq Z.",
+   "prism:publicationName": "Information and Software Technology",
+   "prism:issn": "09505849",
+   "prism:volume": "150",
+   "prism:pageRange": null,
+   "prism:coverDate": "2022-10-01",
+   "prism:coverDisplayDate": "October 2022",
+   "prism:doi": "10.1016/j.infsof.2022.106969",
+   "pii": "S0950584922001070",
+   "citedby-count": "27",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Kashmir",
+     "affiliation-city": "Srinagar",
+     "affiliation-country": "India"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "106969",
+   "source-id": "18732",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133508302"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133508302?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133508302&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85133508302&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85133508302",
+   "dc:identifier": "SCOPUS_ID:85133508302",
+   "eid": "2-s2.0-85133508302",
+   "dc:title": "Towards language-independent Brown Build Detection",
+   "dc:creator": "Olewicki D.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450392211]"
+    }
+   ],
+   "prism:volume": "2022-May",
+   "prism:pageRange": "2177-2188",
+   "prism:coverDate": "2022-07-05",
+   "prism:coverDisplayDate": "5 July 2022",
+   "prism:doi": "10.1145/3510003.3510122",
+   "citedby-count": "18",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Polytechnique Montréal",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "19242",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133217454"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133217454?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133217454&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85133217454&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85133217454",
+   "dc:identifier": "SCOPUS_ID:85133217454",
+   "eid": "2-s2.0-85133217454",
+   "dc:title": "Evaluating Features for Machine Learning Detection of Order-and Non-Order-Dependent Flaky Tests",
+   "dc:creator": "Parry O.",
+   "prism:publicationName": "Proceedings 2022 IEEE 15th International Conference on Software Testing Verification and Validation Icst 2022",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665466790]"
+    }
+   ],
+   "prism:pageRange": "93-104",
+   "prism:coverDate": "2022-01-01",
+   "prism:coverDisplayDate": "2022",
+   "prism:doi": "10.1109/ICST53961.2022.00021",
+   "citedby-count": "20",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "The University of Sheffield",
+     "affiliation-city": "Sheffield",
+     "affiliation-country": "United Kingdom"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101094536",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146234206"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146234206?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85146234206&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85146234206&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85146234206",
+   "dc:identifier": "SCOPUS_ID:85146234206",
+   "eid": "2-s2.0-85146234206",
+   "dc:title": "What Made This Test Flake? Pinpointing Classes Responsible for Test Flakiness",
+   "dc:creator": "Habchi S.",
+   "prism:publicationName": "Proceedings 2022 IEEE International Conference on Software Maintenance and Evolution Icsme 2022",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665479561]"
+    }
+   ],
+   "prism:pageRange": "352-363",
+   "prism:coverDate": "2022-01-01",
+   "prism:coverDisplayDate": "2022",
+   "prism:doi": "10.1109/ICSME55016.2022.00039",
+   "citedby-count": "11",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Ubisoft",
+     "affiliation-city": null,
+     "affiliation-country": null
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101131406",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85142443832"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85142443832?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85142443832&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85142443832&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85142443832",
+   "dc:identifier": "SCOPUS_ID:85142443832",
+   "eid": "2-s2.0-85142443832",
+   "dc:title": "Automated Identification of Flaky Builds using Knowledge Graphs",
+   "dc:creator": "Moriconi F.",
+   "prism:publicationName": "Ceur Workshop Proceedings",
+   "prism:issn": "16130073",
+   "prism:volume": "3256",
+   "prism:pageRange": null,
+   "prism:coverDate": "2022-01-01",
+   "prism:coverDisplayDate": "2022",
+   "citedby-count": "1",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "EURECOM",
+     "affiliation-city": "Sophia Antipolis",
+     "affiliation-country": "France"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "Amadeus IT Group",
+     "affiliation-city": "Sophia Antipolis",
+     "affiliation-country": "France"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100218356",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108907929"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108907929?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108907929&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108907929&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108907929",
+   "dc:identifier": "SCOPUS_ID:85108907929",
+   "eid": "2-s2.0-85108907929",
+   "dc:title": "Testing web enabled simulation at scale using metamorphic testing",
+   "dc:creator": "Ahlgren J.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9780738146690]"
+    }
+   ],
+   "prism:pageRange": "140-149",
+   "prism:coverDate": "2021-12-17",
+   "prism:coverDisplayDate": "May 2021",
+   "prism:doi": "10.1109/ICSE-SEIP52600.2021.00023",
+   "citedby-count": "60",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Meta",
+     "affiliation-city": "Menlo Park",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "19242",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfree2read"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Bronze"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85113344345"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85113344345?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85113344345&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85113344345&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85113344345",
+   "dc:identifier": "SCOPUS_ID:85113344345",
+   "eid": "2-s2.0-85113344345",
+   "dc:title": "Empirical analysis of practitioners' perceptions of test flakiness factors",
+   "dc:creator": "Ahmad A.",
+   "prism:publicationName": "Software Testing Verification and Reliability",
+   "prism:issn": "09600833",
+   "prism:eIssn": "10991689",
+   "prism:volume": "31",
+   "prism:issueIdentifier": "8",
+   "prism:pageRange": null,
+   "prism:coverDate": "2021-12-01",
+   "prism:coverDisplayDate": "December 2021",
+   "prism:doi": "10.1002/stvr.1791",
+   "citedby-count": "21",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Linköpings Universitet",
+     "affiliation-city": "Linkoping",
+     "affiliation-country": "Sweden"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "e1791",
+   "source-id": "20432",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherhybridgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Hybrid Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116247799"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85116247799?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85116247799&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85116247799&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85116247799",
+   "dc:identifier": "SCOPUS_ID:85116247799",
+   "eid": "2-s2.0-85116247799",
+   "dc:title": "When life gives you oranges: Detecting and diagnosing intermittent job failures at Mozilla",
+   "dc:creator": "Lampel J.",
+   "prism:publicationName": "Esec Fse 2021 Proceedings of the 29th ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450385626]"
+    }
+   ],
+   "prism:pageRange": "1381-1392",
+   "prism:coverDate": "2021-08-20",
+   "prism:coverDisplayDate": "20 August 2021",
+   "prism:doi": "10.1145/3468264.3473931",
+   "citedby-count": "33",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universität des Saarlandes",
+     "affiliation-city": "Saarbrucken",
+     "affiliation-country": "Germany"
+    },
+    {
+     "@_fa": "true",
+     "affilname": "CISPA",
+     "affiliation-city": "St Ingbert",
+     "affiliation-country": "Germany"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101060564",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108022953"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85108022953?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85108022953&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85108022953&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85108022953",
+   "dc:identifier": "SCOPUS_ID:85108022953",
+   "eid": "2-s2.0-85108022953",
+   "dc:title": "Supervised learning for test suit selection in continuous integration",
+   "dc:creator": "Martins R.",
+   "prism:publicationName": "Proceedings 2021 IEEE 14th International Conference on Software Testing Verification and Validation Workshops Icstw 2021",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665444569]"
+    }
+   ],
+   "prism:pageRange": "239-246",
+   "prism:coverDate": "2021-04-01",
+   "prism:coverDisplayDate": "April 2021",
+   "prism:doi": "10.1109/ICSTW52544.2021.00048",
+   "citedby-count": "6",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Instituto Superior Técnico",
+     "affiliation-city": "Lisbon",
+     "affiliation-country": "Portugal"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "9440147",
+   "source-id": "21101048609",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107155129"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85107155129?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85107155129&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85107155129&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85107155129",
+   "dc:identifier": "SCOPUS_ID:85107155129",
+   "eid": "2-s2.0-85107155129",
+   "dc:title": "Know You Neighbor: Fast Static Prediction of Test Flakiness",
+   "dc:creator": "Verdecchia R.",
+   "prism:publicationName": "IEEE Access",
+   "prism:eIssn": "21693536",
+   "prism:volume": "9",
+   "prism:pageRange": "76119-76134",
+   "prism:coverDate": "2021-01-01",
+   "prism:coverDisplayDate": "2021",
+   "prism:doi": "10.1109/ACCESS.2021.3082424",
+   "citedby-count": "55",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Vrije Universiteit Amsterdam",
+     "affiliation-city": "Amsterdam",
+     "affiliation-country": "Netherlands"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "article-number": "9437181",
+   "source-id": "21100374601",
+   "openaccess": "1",
+   "openaccessFlag": true,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "publisherfullgold"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryvor"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Gold"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85125446573"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85125446573?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85125446573&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85125446573&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85125446573",
+   "dc:identifier": "SCOPUS_ID:85125446573",
+   "eid": "2-s2.0-85125446573",
+   "dc:title": "Shaker: A Tool for Detecting More Flaky Tests Faster",
+   "dc:creator": "Cordeiro M.",
+   "prism:publicationName": "Proceedings 2021 36th IEEE ACM International Conference on Automated Software Engineering Ase 2021",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781665403375]"
+    }
+   ],
+   "prism:pageRange": "1281-1285",
+   "prism:coverDate": "2021-01-01",
+   "prism:coverDisplayDate": "2021",
+   "prism:doi": "10.1109/ASE51524.2021.9678918",
+   "citedby-count": "5",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade Federal de Pernambuco",
+     "affiliation-city": "Recife",
+     "affiliation-country": "Brazil"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101078223",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097351948"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85097351948?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85097351948&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85097351948&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85097351948",
+   "dc:identifier": "SCOPUS_ID:85097351948",
+   "eid": "2-s2.0-85097351948",
+   "dc:title": "A Container-Based Infrastructure for Fuzzy-Driven Root Causing of Flaky Tests",
+   "dc:creator": "Terragni V.",
+   "prism:publicationName": "Proceedings 2020 ACM IEEE 42nd International Conference on Software Engineering New Ideas and Emerging Results ICSE Nier 2020",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450371261]"
+    }
+   ],
+   "prism:pageRange": "69-72",
+   "prism:coverDate": "2020-10-01",
+   "prism:coverDisplayDate": "October 2020",
+   "prism:doi": "10.1145/3377816.3381742",
+   "citedby-count": "11",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Università della Svizzera italiana",
+     "affiliation-city": "Lugano",
+     "affiliation-country": "Switzerland"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "9397524",
+   "source-id": "21101043284",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088916280"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85088916280?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85088916280&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85088916280&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85088916280",
+   "dc:identifier": "SCOPUS_ID:85088916280",
+   "eid": "2-s2.0-85088916280",
+   "dc:title": "Empirically revisiting and enhancing IR-based test-case prioritization",
+   "dc:creator": "Peng Q.",
+   "prism:publicationName": "Issta 2020 Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450380089]"
+    }
+   ],
+   "prism:pageRange": "324-336",
+   "prism:coverDate": "2020-07-18",
+   "prism:coverDisplayDate": "18 July 2020",
+   "prism:doi": "10.1145/3395363.3397383",
+   "citedby-count": "46",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Illinois Urbana-Champaign",
+     "affiliation-city": "Urbana",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101018920",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093657342"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093657342?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85093657342&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85093657342&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85093657342",
+   "dc:identifier": "SCOPUS_ID:85093657342",
+   "eid": "2-s2.0-85093657342",
+   "dc:title": "Empirical Study of Restarted and Flaky Builds on Travis CI",
+   "dc:creator": "Durieux T.",
+   "prism:publicationName": "Proceedings 2020 IEEE ACM 17th International Conference on Mining Software Repositories MSR 2020",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450379571]"
+    }
+   ],
+   "prism:pageRange": "254-264",
+   "prism:coverDate": "2020-06-29",
+   "prism:coverDisplayDate": "29 June 2020",
+   "prism:doi": "10.1145/3379597.3387460",
+   "citedby-count": "34",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade de Lisboa",
+     "affiliation-city": "Lisbon",
+     "affiliation-country": "Portugal"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101023641",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093696384"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093696384?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85093696384&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85093696384&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85093696384",
+   "dc:identifier": "SCOPUS_ID:85093696384",
+   "eid": "2-s2.0-85093696384",
+   "dc:title": "A container-based infrastructure for fuzzy-driven root causing of flaky tests",
+   "dc:creator": "Terragni V.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450371261]"
+    }
+   ],
+   "prism:pageRange": "69-72",
+   "prism:coverDate": "2020-06-27",
+   "prism:coverDisplayDate": "27 June 2020",
+   "prism:doi": "10.1145/3377816.3381742",
+   "citedby-count": "17",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Università della Svizzera italiana",
+     "affiliation-city": "Lugano",
+     "affiliation-country": "Switzerland"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "3381742",
+   "source-id": "19242",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092600167"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85092600167?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85092600167&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85092600167&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85092600167",
+   "dc:identifier": "SCOPUS_ID:85092600167",
+   "eid": "2-s2.0-85092600167",
+   "dc:title": "Modeling and ranking flaky tests at apple",
+   "dc:creator": "Kowalczyk E.",
+   "prism:publicationName": "Proceedings International Conference on Software Engineering",
+   "prism:issn": "02705257",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450371230]"
+    }
+   ],
+   "prism:pageRange": "110-119",
+   "prism:coverDate": "2020-06-27",
+   "prism:coverDisplayDate": "27 June 2020",
+   "prism:doi": "10.1145/3377813.3381370",
+   "citedby-count": "50",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Apple Inc.",
+     "affiliation-city": "Cupertino",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "3381370",
+   "source-id": "19242",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078708254"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078708254?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078708254&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078708254&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "full-text",
+     "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0950584920300185"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078708254",
+   "dc:identifier": "SCOPUS_ID:85078708254",
+   "eid": "2-s2.0-85078708254",
+   "dc:title": "Test Case Prioritization in Continuous Integration environments: A systematic mapping study",
+   "dc:creator": "Prado Lima J.A.",
+   "prism:publicationName": "Information and Software Technology",
+   "prism:issn": "09505849",
+   "prism:volume": "121",
+   "prism:pageRange": null,
+   "prism:coverDate": "2020-05-01",
+   "prism:coverDisplayDate": "May 2020",
+   "prism:doi": "10.1016/j.infsof.2020.106268",
+   "pii": "S0950584920300185",
+   "citedby-count": "101",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Universidade Federal do Parana",
+     "affiliation-city": "Curitiba",
+     "affiliation-country": "Brazil"
+    }
+   ],
+   "prism:aggregationType": "Journal",
+   "subtype": "re",
+   "subtypeDescription": "Review",
+   "article-number": "106268",
+   "source-id": "18732",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081096533"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081096533?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081096533&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081096533&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081096533",
+   "dc:identifier": "SCOPUS_ID:85081096533",
+   "eid": "2-s2.0-85081096533",
+   "dc:title": "Understanding and Improving Regression Test Selection in Continuous Integration",
+   "dc:creator": "Shi A.",
+   "prism:publicationName": "Proceedings International Symposium on Software Reliability Engineering ISSRE",
+   "prism:eIssn": "23326549",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781728149820, 9781728149813]"
+    }
+   ],
+   "prism:volume": "2019-October",
+   "prism:pageRange": "228-238",
+   "prism:coverDate": "2019-10-01",
+   "prism:coverDisplayDate": "October 2019",
+   "prism:doi": "10.1109/ISSRE.2019.00031",
+   "citedby-count": "49",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Siebel School of Computing and Data Science",
+     "affiliation-city": "Urbana",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "8987498",
+   "source-id": "145123",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071934085"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85071934085?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85071934085&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85071934085&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85071934085",
+   "dc:identifier": "SCOPUS_ID:85071934085",
+   "eid": "2-s2.0-85071934085",
+   "dc:title": "Bisecting commits and modeling commit risk during testing",
+   "dc:creator": "Najafi A.",
+   "prism:publicationName": "Esec Fse 2019 Proceedings of the 2019 27th ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450355728]"
+    }
+   ],
+   "prism:pageRange": "279-289",
+   "prism:coverDate": "2019-08-12",
+   "prism:coverDisplayDate": "12 August 2019",
+   "prism:doi": "10.1145/3338906.3338944",
+   "citedby-count": "21",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Concordia University",
+     "affiliation-city": "Montreal",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100927970",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070625442"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85070625442?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85070625442&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85070625442&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85070625442",
+   "dc:identifier": "SCOPUS_ID:85070625442",
+   "eid": "2-s2.0-85070625442",
+   "dc:title": "Root causing flaky tests in a large-scale industrial setting",
+   "dc:creator": "Lam W.",
+   "prism:publicationName": "Issta 2019 Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450362245]"
+    }
+   ],
+   "prism:pageRange": "204-215",
+   "prism:coverDate": "2019-07-10",
+   "prism:coverDisplayDate": "10 July 2019",
+   "prism:doi": "10.1145/3293882.3330570",
+   "citedby-count": "137",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Illinois Urbana-Champaign",
+     "affiliation-city": "Urbana",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100923713",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072896022"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072896022?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072896022&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072896022&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072896022",
+   "dc:identifier": "SCOPUS_ID:85072896022",
+   "eid": "2-s2.0-85072896022",
+   "dc:title": "Wait wait. No, tell me. Analyzing selenium configuration effects on test flakiness",
+   "dc:creator": "Presler-Marshall K.",
+   "prism:publicationName": "Proceedings 2019 IEEE ACM 14th International Workshop on Automation of Software Test Ast 2019",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781728122373]"
+    }
+   ],
+   "prism:pageRange": "7-13",
+   "prism:coverDate": "2019-05-01",
+   "prism:coverDisplayDate": "May 2019",
+   "prism:doi": "10.1109/AST.2019.000-1",
+   "citedby-count": "29",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "NC State College of Engineering",
+     "affiliation-city": "Raleigh",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "8821891",
+   "source-id": "21100931119",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072111316"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072111316?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072111316&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072111316&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072111316",
+   "dc:identifier": "SCOPUS_ID:85072111316",
+   "eid": "2-s2.0-85072111316",
+   "dc:title": "Predictive Test Selection",
+   "dc:creator": "Machalica M.",
+   "prism:publicationName": "Proceedings 2019 IEEE ACM 41st International Conference on Software Engineering Software Engineering in Practice ICSE Seip 2019",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781728117607]"
+    }
+   ],
+   "prism:pageRange": "91-100",
+   "prism:coverDate": "2019-05-01",
+   "prism:coverDisplayDate": "May 2019",
+   "prism:doi": "10.1109/ICSE-SEIP.2019.00018",
+   "citedby-count": "119",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Meta",
+     "affiliation-city": "Menlo Park",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "8804462",
+   "source-id": "21100928670",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072126243"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85072126243?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85072126243&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85072126243&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85072126243",
+   "dc:identifier": "SCOPUS_ID:85072126243",
+   "eid": "2-s2.0-85072126243",
+   "dc:title": "Assessing Transition-Based Test Selection Algorithms at Google",
+   "dc:creator": "Leong C.",
+   "prism:publicationName": "Proceedings 2019 IEEE ACM 41st International Conference on Software Engineering Software Engineering in Practice ICSE Seip 2019",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781728117607]"
+    }
+   ],
+   "prism:pageRange": "101-110",
+   "prism:coverDate": "2019-05-01",
+   "prism:coverDisplayDate": "May 2019",
+   "prism:doi": "10.1109/ICSE-SEIP.2019.00019",
+   "citedby-count": "35",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Google LLC",
+     "affiliation-city": "Mountain View",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "8804429",
+   "source-id": "21100928670",
+   "openaccess": "2",
+   "openaccessFlag": false,
+   "freetoread": {
+    "value": [
+     {
+      "$": "all"
+     },
+     {
+      "$": "repository"
+     },
+     {
+      "$": "repositoryam"
+     }
+    ]
+   },
+   "freetoreadLabel": {
+    "value": [
+     {
+      "$": "All Open Access"
+     },
+     {
+      "$": "Green"
+     }
+    ]
+   }
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067977238"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85067977238?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85067977238&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85067977238&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85067977238",
+   "dc:identifier": "SCOPUS_ID:85067977238",
+   "eid": "2-s2.0-85067977238",
+   "dc:title": "IDFlakies: A framework for detecting and partially classifying flaky tests",
+   "dc:creator": "Lam W.",
+   "prism:publicationName": "Proceedings 2019 IEEE 12th International Conference on Software Testing Verification and Validation Icst 2019",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781728117355]"
+    }
+   ],
+   "prism:pageRange": "312-322",
+   "prism:coverDate": "2019-04-01",
+   "prism:coverDisplayDate": "April 2019",
+   "prism:doi": "10.1109/ICST.2019.00038",
+   "citedby-count": "169",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Illinois Urbana-Champaign",
+     "affiliation-city": "Urbana",
+     "affiliation-country": "United States"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "article-number": "8730188",
+   "source-id": "21100913592",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058321130"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85058321130?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85058321130&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85058321130&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85058321130",
+   "dc:identifier": "SCOPUS_ID:85058321130",
+   "eid": "2-s2.0-85058321130",
+   "dc:title": "The impact of failing, flaky, and high failure tests on the number of crash reports associated with firefox builds",
+   "dc:creator": "Rahman M.T.",
+   "prism:publicationName": "Esec Fse 2018 Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450355735]"
+    }
+   ],
+   "prism:pageRange": "857-862",
+   "prism:coverDate": "2018-10-26",
+   "prism:coverDisplayDate": "26 October 2018",
+   "prism:doi": "10.1145/3236024.3275529",
+   "citedby-count": "45",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "PBSC Urban Solutions",
+     "affiliation-city": "Longueuil",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21100890553",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030776060"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/85030776060?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85030776060&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85030776060&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85030776060",
+   "dc:identifier": "SCOPUS_ID:85030776060",
+   "eid": "2-s2.0-85030776060",
+   "dc:title": "Measuring the cost of regression testing in practice: A study of Java projects using continuous integration",
+   "dc:creator": "Labuschagne A.",
+   "prism:publicationName": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering",
+   "prism:eIssn": "15397521",
+   "prism:isbn": [
+    {
+     "@_fa": "true",
+     "$": "[9781450351058]"
+    }
+   ],
+   "prism:pageRange": "821-830",
+   "prism:coverDate": "2017-08-21",
+   "prism:coverDisplayDate": "21 August 2017",
+   "prism:doi": "10.1145/3106237.3106288",
+   "citedby-count": "89",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "University of Waterloo",
+     "affiliation-city": "Waterloo",
+     "affiliation-country": "Canada"
+    }
+   ],
+   "prism:aggregationType": "Conference Proceeding",
+   "subtype": "cp",
+   "subtypeDescription": "Conference Paper",
+   "source-id": "21101226476",
+   "openaccess": "0",
+   "openaccessFlag": false
+  },
+  {
+   "@_fa": "true",
+   "link": [
+    {
+     "@_fa": "true",
+     "@ref": "self",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878789460"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "author-affiliation",
+     "@href": "https://api.elsevier.com/content/abstract/scopus_id/84878789460?field=author,affiliation"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus",
+     "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84878789460&origin=inward"
+    },
+    {
+     "@_fa": "true",
+     "@ref": "scopus-citedby",
+     "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84878789460&origin=inward"
+    }
+   ],
+   "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84878789460",
+   "dc:identifier": "SCOPUS_ID:84878789460",
+   "eid": "2-s2.0-84878789460",
+   "dc:title": "Recovery after an intermittent test",
+   "dc:creator": "Nedelec M.",
+   "prism:publicationName": "International Journal of Sports Medicine",
+   "prism:issn": "01724622",
+   "prism:eIssn": "14393964",
+   "prism:volume": "34",
+   "prism:issueIdentifier": "6",
+   "prism:pageRange": "554-558",
+   "prism:coverDate": "2013-01-01",
+   "prism:coverDisplayDate": "2013",
+   "prism:doi": "10.1055/s-0032-1316364",
+   "citedby-count": "15",
+   "affiliation": [
+    {
+     "@_fa": "true",
+     "affilname": "Unité de Recherche Pluridisciplinaire Sport, Santé, Société (URePSSS)",
+     "affiliation-city": "Dunkerque",
+     "affiliation-country": "France"
+    }
+   ],
+   "pubmed-id": "23258607",
+   "prism:aggregationType": "Journal",
+   "subtype": "ar",
+   "subtypeDescription": "Article",
+   "source-id": "19864",
+   "openaccess": "0",
+   "openaccessFlag": false
+  }
+ ]
+}
