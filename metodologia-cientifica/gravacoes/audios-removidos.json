@@ -1,0 +1,65 @@
+{
+  "removed_at": "2026-11-06",
+  "authorization": "Solicitação explícita do aluno neste chat para apagar os áudios após obter os vídeos de todas as aulas.",
+  "total_bytes_removed": 1103713633,
+  "files": [
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.m4a",
+      "bytes": 176108510,
+      "sha256": "8ecf28d83dd13250941f4a5aed436fbf3c4f5021ba4884adebdccfc9fe17db22",
+      "video": "metodologia-cientifica/gravacoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.m4a",
+      "bytes": 313439348,
+      "sha256": "fd38ae19bdb3c48056beda4fb8fe778d2acb5d6f8cf00cd38b07c44f3ee5433a",
+      "video": "metodologia-cientifica/gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.m4a",
+      "bytes": 80179459,
+      "sha256": "711fca53ea32b5b7f990c8c7d13a4070f1eb0ca36058941f45d4560270359b3d",
+      "video": "metodologia-cientifica/gravacoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.m4a",
+      "bytes": 71418010,
+      "sha256": "e79adce4215d9c4190f0352f405ed540a172bb40b94f736aaa412ca13419b5b8",
+      "video": "metodologia-cientifica/gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-10-16 - Metodologia de Pesquisa.m4a",
+      "bytes": 23278612,
+      "sha256": "5013deb64d3a82634a9a8def02ba58668fcc6d6ba7bc3bd8375a6a7f3e3cee45",
+      "video": "metodologia-cientifica/gravacoes/2026-10-16 - Metodologia de Pesquisa.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": "metodologia-cientifica/gravacoes/2026-10-30 - Metodologia de Pesquisa.m4a",
+      "bytes": 125849599,
+      "sha256": "f21211b6370cc2167d3f68d0644bb75b2118962d75da48c24dc9258000660f74",
+      "video": "metodologia-cientifica/gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": ".soniox-staging/audio/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.m4a",
+      "bytes": 155403090,
+      "sha256": "8c06cc0c90f88a8613e0e6efbf8a360b06f214c5d03fdd3e023b5edf38c4eb4b",
+      "video": "metodologia-cientifica/gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "segment_start_seconds": 0
+    },
+    {
+      "path": ".soniox-staging/audio/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 2.m4a",
+      "bytes": 158037005,
+      "sha256": "025bae34fd16906629c16c72dfcc31cfed9507370ff642829e8bca4829b883d0",
+      "video": "metodologia-cientifica/gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "segment_start_seconds": 9600
+    }
+  ],
+  "historical_links": "Os originais Soniox são preservados. Links históricos para M4A neles podem apontar para arquivos removidos; use o MP4 do mesmo nome-base ou o mapeamento deste registro.",
+  "regeneration": "O áudio pode ser extraído novamente do MP4. Segmentos de 19/09 usam offsets registrados em segment_start_seconds."
+}

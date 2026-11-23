@@ -1,1 +1,2 @@
 metodologia-cientifica/gravacoes/*.m4a filter=lfs diff=lfs merge=lfs -text
+metodologia-cientifica/gravacoes/*.mp4 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,100 @@
+{
+  "course": "UFSCar — Metodologia de Pesquisa / Revisão Sistemática da Literatura, Módulo 8 da especialização em UX",
+  "language_hints": [
+    "pt",
+    "en"
+  ],
+  "lectures": {
+    "2026-09-18": {
+      "topic": "Alinhamentos da disciplina e do TCC; fundamentos de metodologia científica; tipos de pesquisa; apresentação da revisão sistemática e da ferramenta StArt.",
+      "terms": [
+        "UFSCar",
+        "TCC",
+        "revisão sistemática da literatura",
+        "mapeamento sistemático",
+        "StArt",
+        "LAPS",
+        "falseabilidade",
+        "engenharia de software baseada em evidências",
+        "CNPq",
+        "CAPES",
+        "SBC",
+        "Fábio",
+        "Elis",
+        "Zorzo"
+      ]
+    },
+    "2026-09-19": {
+      "topic": "Planejamento e execução de revisão sistemática; protocolo de pesquisa, questões e strings de busca; demonstração da StArt e busca na Scopus pelo Portal CAPES.",
+      "terms": [
+        "UFSCar",
+        "TCC",
+        "StArt",
+        "LAPS",
+        "Scopus",
+        "Portal de Periódicos CAPES",
+        "acesso CAFe",
+        "PICOC",
+        "PRISMA",
+        "SEGRES",
+        "Barbara Kitchenham",
+        "Quasi Gold Standard",
+        "snowballing",
+        "ACM",
+        "IEEE Xplore",
+        "Web of Science",
+        "RIS",
+        "BibTeX",
+        "critérios de inclusão e exclusão",
+        "formulário de extração",
+        "Fábio"
+      ]
+    },
+    "2026-10-02": {
+      "topic": "Aula de Metodologia de Pesquisa, com foco da disciplina em revisão sistemática da literatura e elaboração do TCC. O conteúdo específico desta gravação ainda não foi verificado.",
+      "terms": [
+        "UFSCar",
+        "TCC",
+        "revisão sistemática da literatura",
+        "mapeamento sistemático",
+        "StArt",
+        "LAPS",
+        "Scopus",
+        "CAPES",
+        "PICOC",
+        "PRISMA",
+        "critérios de inclusão e exclusão"
+      ]
+    },
+    "2026-10-16": {
+      "model": "stt-async-v6",
+      "topic": "Aula de Metodologia de Pesquisa de 2026-10-16, na disciplina de revisão sistemática da literatura e elaboração do TCC. O conteúdo específico da gravação ainda não foi verificado.",
+      "terms": [
+        "UFSCar",
+        "TCC",
+        "revisão sistemática da literatura",
+        "StArt",
+        "Scopus",
+        "CAPES",
+        "SBC",
+        "ABNT",
+        "critérios de inclusão e exclusão"
+      ]
+    },
+    "2026-10-30": {
+      "model": "stt-async-v6",
+      "topic": "Aula de Metodologia de Pesquisa de 2026-10-30, na disciplina de revisão sistemática da literatura e elaboração do TCC. O conteúdo específico da gravação ainda não foi verificado.",
+      "terms": [
+        "UFSCar",
+        "TCC",
+        "revisão sistemática da literatura",
+        "StArt",
+        "Scopus",
+        "CAPES",
+        "SBC",
+        "ABNT",
+        "critérios de inclusão e exclusão"
+      ]
+    }
+  }
+}

@@ -1,1 +1,3 @@
 .DS_Store
+.soniox-staging/
+__pycache__/

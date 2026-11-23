@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "scientific-papers": {
+      "command": "/Users/c24580q/UFSCar/tools/paper-retrieval-mcp/.venv/bin/python",
+      "args": ["-m", "paper_retrieval.server"],
+      "env": {
+        "PAPER_PROVIDER_URLS": "https://sci-hub.ru",
+        "PAPER_HOST_OVERRIDES": "{\"sci-hub.ru\":\"190.115.31.218\"}",
+        "PAPER_DATA_DIR": "/Users/c24580q/UFSCar/tools/paper-retrieval-mcp/.data"
+      }
+    }
+  }
+}

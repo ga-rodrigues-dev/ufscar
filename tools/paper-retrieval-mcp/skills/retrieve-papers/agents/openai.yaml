@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retrieve papers"
+  short_description: "Download scientific PDFs by DOI with the papers CLI"
+  default_prompt: "Use $retrieve-papers to retrieve the PDF of the paper identified by the DOI."

@@ -1,4 +1,6 @@
-# Metodologia Científica – Revisão Sistemática
+# Contexto da disciplina — exportação histórica do Notion
+
+Este documento preserva a ementa e o estado da exportação de **11/10/2026**. Para os arquivos disponíveis hoje, consulte o [inventário de materiais](materiais-do-moodle.md); para as gravações e transcrições, consulte o [guia das aulas](gravacoes/README.md).
 
 - Notion: https://app.notion.com/p/320f7e4f7d1146178077306cf313fe13
 - Class notes hub: https://app.notion.com/p/cea680a25f7847efbc07a49183e26e61
@@ -25,7 +27,7 @@ Capacitar o aluno no levantamento bibliográfico científico utilizando Revisão
 8. A escrita e a apresentação do Trabalho de Conclusão de Curso (TCC).
 9. Uso de ferramentas para geração de textos com machine learning.
 
-## Calendário
+## Calendário e estado no Notion em 11/10/2026
 
 | Aula | Data | O que está no Notion |
 | --- | --- | --- |
@@ -38,13 +40,13 @@ Capacitar o aluno no levantamento bibliográfico científico utilizando Revisão
 | 7 | 2026-10-30 | Página vazia |
 | 8 | 2026-10-31 | Página vazia |
 
-## O que foi exportado
+## O que constava na exportação de 11/10/2026
 
 - `2026-09-18-aula-1.md` — resumo da aula 1
 - `2026-09-19-aula-2.md` — resumo da aula 2
-- As transcrições brutas já estavam na pasta UFSCar e continuam lá.
+- As transcrições brutas já estavam na pasta UFSCar naquela coleta. Os nomes das duas notas acima pertencem à exportação inicial; as cópias atuais para leitura estão em [`transcricoes/`](transcricoes/).
 
-## O que existe no Notion e não tem conteúdo
+## Lacunas do Notion registradas naquela coleta
 
 - Os oito mapas de conceito, um por aula, só apontam para a disciplina.
 - A base Materiais filtrada para esta disciplina não tem arquivos.
@@ -52,9 +54,3 @@ Capacitar o aluno no levantamento bibliográfico científico utilizando Revisão
 - O hub Class Notes só tem os oito toggles de data, vazios.
 - Não há notas de reunião de outubro para as aulas 3 e 4.
 - Os slides foram postados no Moodle, segundo a aula 2, e não estão anexados no Notion.
-
-## Materiais do AVA/UFSCar
-
-- [Inventário completo da seção Metodologia Científica](materiais-do-moodle.md), coletado em 11/10/2026.
-- Os cinco arquivos da seção estão em [`materiais/`](materiais/): três PDFs, uma apresentação PPTX e um TCC comentado em DOCX.
-- O inventário também registra gravações, links de apoio, entregas e fórum.

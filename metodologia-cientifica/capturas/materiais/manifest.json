@@ -1,0 +1,920 @@
+{
+  "created_at": "2026-11-06",
+  "kind": "source_document_reproductions_verified_against_videos",
+  "video_confirmation": true,
+  "rendering": "Páginas dos PDFs, excerto do resumo e imagem embutida do fluxograma; detalhes das duas extrações parciais nos respectivos registros.",
+  "associations": [
+    {
+      "transcript": "../../transcricoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.pt.md",
+      "time_range": "01:59:00–02:00:07",
+      "transcript_block": "02:00:07",
+      "pdf": "../../materiais/Parte2-MetodologiaPesquisa2026.pdf",
+      "pdf_page": 18,
+      "pdf_sha256": "932c06e8d19d49f89cd88f1a81c3bc2928883968c30ebc8f86aeeb14c1151530",
+      "image": "parte2-p018.png",
+      "image_sha256": "0e73abae32c102d0803a46adef409337c3ca07dad116bf2cd4ce107bf09dbc8e",
+      "title": "Classificação da pesquisa",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "A fala enumera finalidade, objetivo, procedimentos, natureza dos dados e local de realização, na ordem do slide.",
+      "why_useful": "O quadro reúne as dimensões que ajudam a caracterizar o método do TCC.",
+      "limitation": "A classificação da pesquisa concreta do aluno ainda depende do protocolo; o slide não decide isso por ele.",
+      "video": "../../gravacoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 7170,
+        "timestamp": "01:59:30",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "9afee796f22b63347362e40048a623d2961b4a3eed68998257a470118714e310"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.pt.md",
+      "time_range": "02:31:50–02:33:54",
+      "transcript_block": "02:32:49",
+      "pdf": "../../materiais/Parte2-MetodologiaPesquisa2026.pdf",
+      "pdf_page": 34,
+      "pdf_sha256": "932c06e8d19d49f89cd88f1a81c3bc2928883968c30ebc8f86aeeb14c1151530",
+      "image": "parte2-p034.png",
+      "image_sha256": "6f5abbb54c424aa134219cbf754e08342e2fedd8e985294b56c395018edf706a",
+      "title": "Fases da elaboração da pesquisa",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Em 02:32:49, o docente refere-se à formulação do problema e identifica a revisão da literatura como passo quatro, como no diagrama.",
+      "why_useful": "A sequência tema → objetivos → problema → revisão → dados → comunicação fica visível.",
+      "limitation": "É uma visão geral do processo, sem tutoriais de recuperação de artigos.",
+      "video": "../../gravacoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 9169,
+        "timestamp": "02:32:49",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "5e5d21d409b86c487c20d3f7078d188f4654f2190e48d655ed4dd412c8fdf19f"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.pt.md",
+      "time_range": "02:51:08–02:53:32",
+      "transcript_block": "02:52:14",
+      "pdf": "../../materiais/Parte2-MetodologiaPesquisa2026.pdf",
+      "pdf_page": 47,
+      "pdf_sha256": "932c06e8d19d49f89cd88f1a81c3bc2928883968c30ebc8f86aeeb14c1151530",
+      "image": "parte2-p047.png",
+      "image_sha256": "d00310f1891d76526a429ee4f8bbab4cb793f462cb7e7bf7b810ad4fd438ced2",
+      "title": "Ciclo de vida do trabalho científico",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "A fala percorre identificar problema, fazer revisão/mapeamento, formular hipótese, criar soluções e analisar resultados, como nas cinco caixas.",
+      "why_useful": "Mostra a relação entre problema, evidências, hipóteses e avaliação.",
+      "limitation": "Em 02:53:32 o docente ressalva que o TCC não exige executar todo esse ciclo.",
+      "video": "../../gravacoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 10334,
+        "timestamp": "02:52:14",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "69e475311000d2d77e27f7f8ba91ee67dae15ce5531124fed2ea9d6268d5fd33"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.pt.md",
+      "time_range": "00:04:27–00:05:42",
+      "transcript_block": "00:05:42",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 6,
+      "pdf_sha256": "47929a1f2a1e4a11c0b84400fd8e02fc31c445eefaf2ac2a3f242262966b567d",
+      "image": "parte3-p006.png",
+      "image_sha256": "6f1f387ddfb4247526fd3d9b970d61466e99133898e4af0b5c7567317131c84e",
+      "title": "Estudos primários e secundários",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "A fala diz “esse aqui seria o fluxo” e associa estudos de caso, surveys e experimentos à síntese que gera evidências e novas áreas.",
+      "why_useful": "O diagrama representa a passagem de estudos individuais para uma síntese.",
+      "limitation": "Não se trata de uma instrução de busca em bases.",
+      "video": "../../gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 342,
+        "timestamp": "00:05:42",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "0bffe3c482b3be76f188a27a2f6625689d5d0ee1704a322833fb3aae46bf153d"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.pt.md",
+      "time_range": "00:21:09–00:22:18",
+      "transcript_block": "00:22:18",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 12,
+      "pdf_sha256": "47929a1f2a1e4a11c0b84400fd8e02fc31c445eefaf2ac2a3f242262966b567d",
+      "image": "parte3-p012.png",
+      "image_sha256": "f33ba1105b1457de37d5acb66425f33e79b6a8b15009ca11da948a2596167708",
+      "title": "Processo da revisão e empacotamento",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "O docente descreve planejamento, execução, análise de resultados e destaca o empacotamento, presente na faixa inferior do diagrama.",
+      "why_useful": "Preserva as relações e retornos entre fases, que a transcrição linear perde.",
+      "limitation": "O diagrama foi confirmado no vídeo em 00:22:18. A conferência é pontual, sem audição integral.",
+      "video": "../../gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1338,
+        "timestamp": "00:22:18",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "5ed79082c7d93d18a3318b4b52cdd509846dd7fcb1f2827534a9fbfd8985a413"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.pt.md",
+      "time_range": "00:28:05–00:30:19",
+      "transcript_block": "00:30:19",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 16,
+      "pdf_sha256": "47929a1f2a1e4a11c0b84400fd8e02fc31c445eefaf2ac2a3f242262966b567d",
+      "image": "parte3-p016.png",
+      "image_sha256": "0ee6861a24648f1db1a7d50c7d20df62bae0ad45e016a8f05ddd1bd3f9a71161",
+      "title": "PICOC: construção da questão de pesquisa",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Coincidem os exemplos de hipertensão/medicamentos X e Y/12 semanas e projetos de software de médio porte/testes automatizados versus manuais.",
+      "why_useful": "A disposição lado a lado permite relacionar cada componente à pergunta resultante.",
+      "limitation": "Exemplos didáticos para formular a pergunta, sem definir o tema do aluno nem orientar busca de artigos.",
+      "video": "../../gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1819,
+        "timestamp": "00:30:19",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "f6845ca183ee3f70a10e2f2cde1e80352a795598f138f37e92cdccb91985c32f"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.pt.md",
+      "time_range": "01:09:38–01:13:07",
+      "transcript_block": "01:10:46",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 26,
+      "pdf_sha256": "47929a1f2a1e4a11c0b84400fd8e02fc31c445eefaf2ac2a3f242262966b567d",
+      "image": "parte3-p026.png",
+      "image_sha256": "5e0d560c35c24cb20a052c293ff0ed5e9bcc5f8002e9102d4b0894f0822af2c7",
+      "title": "Exemplo do fluxograma PRISMA",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Coincidem 1.563 registros iniciais, 1.141 triados, 1.133 excluídos, 8 textos completos avaliados, 5 excluídos e 3 incluídos.",
+      "why_useful": "As caixas e setas ajudam a compreender o relato da seleção dos estudos.",
+      "limitation": "Há uma divergência no próprio slide: a caixa “Records after duplicates removed” traz 422, enquanto a fala e a caixa de triagem usam 1.141. A diferença 1.563 − 1.141 é 422, mas não foi corrigido o rótulo da fonte. Não copiar esses números para a pesquisa do aluno.",
+      "video": "../../gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 4246,
+        "timestamp": "01:10:46",
+        "method": "comparação visual do quadro com a página integral do PDF",
+        "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+        "checked_frame_sha256": "147d5ac8db54effd107a0bc569377e765e201158d483ac3d72ecb3ed736d26fd"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:14:30",
+      "transcript_block": "00:13:37",
+      "pdf": "../../materiais/Parte5-TrechosABNT2026.pdf",
+      "pdf_page": 13,
+      "pdf_sha256": "fe17c910af6d3302340f56b2162085c680ec84f8836c938dcab61f2b6daf3851",
+      "image": "parte5-p013.png",
+      "image_sha256": "189b1060156f2ddb92c2faba9b9f85131714a297ae4d28e206282f12f3843a85",
+      "title": "Citação direta curta e longa",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "A disposição das aspas, do bloco recuado e da indicação de autoria é visual; a fala isolada não conserva essa formatação.",
+      "limitation": "Slide didático de citação direta. As afirmações normativas e as referências do exemplo não foram verificadas independentemente.",
+      "reproduction": {
+        "method": "página integral renderizada do PDF; escala 1.5"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 870,
+        "timestamp": "00:14:30",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "6368a55bcddb84d7f12d47e16498827f087b10ac67a8f90e9bf7e94cae6e28d4"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:22:30",
+      "transcript_block": "00:21:51",
+      "pdf": "../../materiais/Parte5-TrechosABNT2026.pdf",
+      "pdf_page": 20,
+      "pdf_sha256": "fe17c910af6d3302340f56b2162085c680ec84f8836c938dcab61f2b6daf3851",
+      "image": "parte5-p020.png",
+      "image_sha256": "98bc3636b99bc1b0c538ade6c17dbd335876ca359f7d828884d0367f0f074c88",
+      "title": "Citações no texto e lista de referências",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "O antes/depois e o contraste entre maiúsculas e minúsculas tornam a diferença visível.",
+      "limitation": "Registra o que o slide da aula apresenta; conferir a norma e o template aplicáveis ao escrever.",
+      "reproduction": {
+        "method": "página integral renderizada do PDF; escala 1.5"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1350,
+        "timestamp": "00:22:30",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "54628d778d7e87bab737ec7aa1ce7772459aea62985fcc334698a836290e6ca2"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:26:30",
+      "transcript_block": "00:25:26",
+      "pdf": "../../materiais/Parte5-TrechosABNT2026.pdf",
+      "pdf_page": 24,
+      "pdf_sha256": "fe17c910af6d3302340f56b2162085c680ec84f8836c938dcab61f2b6daf3851",
+      "image": "parte5-p024.png",
+      "image_sha256": "681396ce84261e4ad62e0c08fe710805893174fa67173768458ef2a20e017510",
+      "title": "Formatos de referências por tipo de fonte",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "Permite observar negrito, ordem dos elementos e a diferença entre título de artigo, periódico e livro.",
+      "limitation": "Exemplos didáticos de formatação, sem verificação de existência das publicações ilustrativas.",
+      "reproduction": {
+        "method": "página integral renderizada do PDF; escala 1.5"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1590,
+        "timestamp": "00:26:30",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "22f650db486874b4067de891cf88d801dfbee081d22dce9e9cdaca670ff3b07a"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:32:00",
+      "transcript_block": "00:31:49",
+      "pdf": "../../materiais/exemplos/TCC_DaviAugustodaSilvaRibeiro.pdf",
+      "pdf_page": 1,
+      "pdf_sha256": "cae684298af0348729a9cbdf90975ece1ac9079c29268c4ed6f649c4c1d58b73",
+      "image": "tcc-davi-p001-resumo.png",
+      "image_sha256": "4c3d44faa4e2dc9a4582d5d29c8c80d996b887c42445c83e840bc0742ad2b8ee",
+      "title": "Exemplo de resumo estruturado",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "Mostra os rótulos e a organização dentro de um parágrafo real de TCC.",
+      "limitation": "O resumo mostrado contém Contexto, Objetivo, Metodologia e Resultados. Na fala, o docente recomenda também Conclusões e esclarece que essa estrutura é uma sugestão.",
+      "reproduction": {
+        "method": "recorte do PDF renderizado; apenas o resumo, sem reescrita",
+        "clip_pdf_points": [
+          102,
+          256,
+          493,
+          390
+        ],
+        "scale": 3,
+        "archive": "../../materiais/ExemploArtigosRevisaoSistematica.zip",
+        "archive_member": "ExemploArtigosRevisaoSistematica/TCC_DaviAugustodaSilvaRibeiro.pdf"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1920,
+        "timestamp": "00:32:00",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "9e8654031933e446f7d013e4a3ee00ffbdc919bf6b2158d5f531e2cc191c4a07"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:51:20",
+      "transcript_block": "00:50:27",
+      "pdf": "../../materiais/exemplos/TCC_MarcosHenriqueMainardiEckart.pdf",
+      "pdf_page": 4,
+      "pdf_sha256": "a8e09535196092811025551bb89f5b6ee9b918f45bcb388e802b44e33feef38d",
+      "image": "tcc-marcos-p004-fluxograma.png",
+      "image_sha256": "9f800f530c21728b55d8a07f6c360799f2a962119e4b8a7f33fb709a30217a27",
+      "title": "Fluxograma de seleção no TCC de exemplo",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "As caixas e setas mostram como relatar seleção, exclusões e conjunto final; o foco é o relato do método, não como buscar artigos.",
+      "limitation": "Números e resultados pertencem ao TCC mostrado. A figura tem 92 identificados e 90 triados sem explicitar nessa tela o motivo da diferença; não copiar números nem tomar o exemplo como protocolo validado.",
+      "reproduction": {
+        "method": "extração direta da imagem embutida no PDF, sem recodificação",
+        "pdf_image_xref": 50,
+        "archive": "../../materiais/ExemploArtigosRevisaoSistematica.zip",
+        "archive_member": "ExemploArtigosRevisaoSistematica/TCC_MarcosHenriqueMainardiEckart.pdf"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 3080,
+        "timestamp": "00:51:20",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "677d786d6c9176c0b87518027f76377963431fbb4cdef864f73619140bb6a54d"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:59:40",
+      "transcript_block": "00:58:02",
+      "pdf": "../../materiais/Parte6-DicasApresentacao2026.pdf",
+      "pdf_page": 4,
+      "pdf_sha256": "9f8a052041ca0001bf5a9616f0f82be3e3f56a5d9da702e6671313a0fa2b096e",
+      "image": "parte6-p004.png",
+      "image_sha256": "fedde3c294051381c8b3e3ebe44f0b80c11f172d5683cb188894ba99e28b5188",
+      "title": "Estrutura sugerida da apresentação",
+      "association": "confirmada visualmente no vídeo no ponto registrado",
+      "evidence": "Conteúdo do material original comparado ao quadro do vídeo, incluindo textos, números e organização visual.",
+      "why_useful": "Reúne em uma tela a sequência de capa, motivação, método, discussão e conclusões.",
+      "limitation": "Embora o slide diga “Apenas 6 slides”, o docente flexibiliza a quantidade na fala. A descrição de obtenção dos estudos deve refletir o método efetivamente adotado pelo aluno.",
+      "reproduction": {
+        "method": "página integral renderizada do PDF; escala 1.5"
+      },
+      "video": "../../gravacoes/2026-10-30 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 3580,
+        "timestamp": "00:59:40",
+        "method": "comparação visual do quadro com o conteúdo original",
+        "checked_frame_sha256": "5590c3c6640422babf7f0431806165496491b167d79ee9da80e2fe575a7133e6"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:19:00",
+      "transcript_block": "00:19:10",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 13,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 13,
+      "image": "parte4-s013.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 1140,
+        "timestamp": "00:19:00",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "1591754d54e099031c158119c0d2a68064cf2997a486df180314b3f7e0cd4b6a"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:36:20",
+      "transcript_block": "00:36:53",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 27,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 27,
+      "image": "parte4-s027.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 2180,
+        "timestamp": "00:36:20",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "3b88115cf8ebebae3d4a4aed34ac7c0e3e706218a23f362eda90163000c47bda"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:42:20",
+      "transcript_block": "00:42:40",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 31,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 31,
+      "image": "parte4-s031.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 2540,
+        "timestamp": "00:42:20",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "42d1f0746b554f4c02f97dad6eb841abd6d03559377a8783d6540b39bfe6f973"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:43:55",
+      "transcript_block": "00:43:53",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 32,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 32,
+      "image": "parte4-s032.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 2635,
+        "timestamp": "00:43:55",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "c20f1787465b72b32f7920ae8b07e69d8a79447b62f95023d6e869b825852362"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:45:40",
+      "transcript_block": "00:45:10",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 33,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 33,
+      "image": "parte4-s033.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 2740,
+        "timestamp": "00:45:40",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "f9bf1e22f2cb28e5771ac3bcc28e9aadfa40d421b25876bc088f2131e3fe6bac"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:48:40",
+      "transcript_block": "00:48:44",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 36,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 36,
+      "image": "parte4-s036.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 2920,
+        "timestamp": "00:48:40",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "547ce4b3f49a85082a55b85449eb45c9c195bd14bce38ab009111fa5ed8a7f82"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "time_range": "00:51:40",
+      "transcript_block": "00:52:06",
+      "pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf",
+      "pdf_page": 37,
+      "pdf_sha256": "e1c38a1cf7ff7a7dcc1130575eefcc0babcbdf52c579044e21515a0b4bdfd815",
+      "source_slide": 37,
+      "image": "parte4-s037.png",
+      "image_sha256": "5d49eb263438595a59468a35e693246f6f0bcc7d57298934a7ce2486dc139e62",
+      "title": "[REDACTED]",
+      "association": "conteúdo do slide original confirmado visualmente no vídeo",
+      "evidence": "Coincidem o título, o conteúdo e os grupos de informação do slide exibido no timestamp registrado.",
+      "why_useful": "[REDACTED]",
+      "limitation": "[REDACTED]",
+      "reproduction": {
+        "method": "Slide renderizado por PyMuPDF, escala 1.5; sem redesenho ou alteração do texto",
+        "derived_pdf": "../../materiais/derivados/Parte4-IAnaRevisaoSistematica2026.pdf"
+      },
+      "video": "../../gravacoes/2026-10-02 1854 - Metodologia de Pesquisa.mp4",
+      "video_confirmation": {
+        "verified_at": "2026-11-06",
+        "timestamp_seconds": 3100,
+        "timestamp": "00:51:40",
+        "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+        "checked_frame_sha256": "e9c7efe261b0a23a3ada818519a0cc09a69d1c3c3434091cc0dcc1a743ee643f"
+      }
+    }
+  ],
+  "related_only": [
+    {
+      "transcript": "../../transcricoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.pt.md",
+      "time_range": "00:13:23",
+      "pdf": "../../materiais/Parte1-AlinhamentosIniciais2026.pdf",
+      "pdf_page": 8,
+      "title": "Seções do artigo",
+      "association": "apoio conceitual; sem reprodução inserida",
+      "evidence": "Coincidem as seções centrais enumeradas em aula. [REDACTED]",
+      "limitation": "Lista textual; basta consultar a página, sem inserir outra imagem.",
+      "video_confirmation": false
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 2.pt.md",
+      "time_range": "03:21:20–03:29:18",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 23,
+      "title": "Construção do formulário de extração",
+      "association": "apoio conceitual; sem reprodução inserida",
+      "evidence": "O slide trata de avaliação da qualidade e formulário de extração, mas não contém os controles Pick One/Pick Many nem o formulário construído na StArt.",
+      "limitation": "Vídeo conferido nos pontos registrados; não foi localizado equivalente da tela prática nos materiais locais examinados. Mantido apenas o vínculo conceitual.",
+      "video_confirmation": false,
+      "video_inspection": {
+        "verified_at": "2026-11-06",
+        "points": [
+          {
+            "timestamp_seconds": 12160,
+            "timestamp": "03:22:40",
+            "checked_frame_sha256": "b456f3ac80375ae06e7eceb0966d94d9b22e30a397db429ba96bdca3813b2dfa"
+          },
+          {
+            "timestamp_seconds": 13240,
+            "timestamp": "03:40:40",
+            "checked_frame_sha256": "6f8229bffde8091f6b5b0de71c3e9202ecdc488a0a182396ab2165de47673cfa"
+          },
+          {
+            "timestamp_seconds": 13334,
+            "timestamp": "03:42:14",
+            "checked_frame_sha256": "3c5dd3fc05e308afc67e28842f463e7bd2b08955876977fa1fc0bc0c858e873b"
+          }
+        ],
+        "outcome": "tela prática da StArt; material local relacionado é apenas conceitual"
+      }
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.pt.md",
+      "time_range": "00:08:24–00:18:42",
+      "pdf": "../../materiais/Parte3-RevisaoSistematica2026.pdf",
+      "pdf_page": 24,
+      "title": "Extração e gráficos de sumarização",
+      "association": "apoio conceitual; sem reprodução inserida",
+      "evidence": "O slide enumera tabelas, estatística e gráficos; a demonstração fala de formulários preenchidos, árvores e grafos concretos da ferramenta.",
+      "limitation": "Vídeo conferido nos pontos registrados; não foi localizado equivalente da tela prática nos materiais locais examinados. Mantido apenas o vínculo conceitual.",
+      "video_confirmation": false,
+      "video_inspection": {
+        "verified_at": "2026-11-06",
+        "points": [
+          {
+            "timestamp_seconds": 640,
+            "timestamp": "00:10:40",
+            "checked_frame_sha256": "bcd2f1ef41d25c19605cb47ab2d6547365c471e30d7f2429f097d839f41417e3"
+          },
+          {
+            "timestamp_seconds": 1080,
+            "timestamp": "00:18:00",
+            "checked_frame_sha256": "f0c129db9d4721bdb6301b056f542fb8dbbaa32fa63bafc6168671964d33f4cb"
+          }
+        ],
+        "outcome": "tela prática da StArt; material local relacionado é apenas conceitual"
+      }
+    }
+  ],
+  "video_confirmation_scope": "Conferência pontual de conteúdo visual relevante para as sete transcrições, com busca e obtenção de artigos excluídas; não houve audição integral dos vídeos.",
+  "reviewed_without_new_images": [
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 2.pt.md",
+      "video": "../../gravacoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1.mp4",
+      "images_added": 0,
+      "decision": "Formulários de extração, escalas de qualidade e campo de sumarização demonstrados na StArt. Não foi localizado arquivo .start nem representação equivalente dessas telas nos materiais locais examinados. Parte 3, páginas 23 e 24, oferece apenas apoio conceitual; nenhuma imagem foi inserida como substituto.",
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 12160,
+          "timestamp": "03:22:40",
+          "checked_frame_sha256": "b456f3ac80375ae06e7eceb0966d94d9b22e30a397db429ba96bdca3813b2dfa"
+        },
+        {
+          "timestamp_seconds": 13240,
+          "timestamp": "03:40:40",
+          "checked_frame_sha256": "6f8229bffde8091f6b5b0de71c3e9202ecdc488a0a182396ab2165de47673cfa"
+        },
+        {
+          "timestamp_seconds": 13334,
+          "timestamp": "03:42:14",
+          "checked_frame_sha256": "3c5dd3fc05e308afc67e28842f463e7bd2b08955876977fa1fc0bc0c858e873b"
+        }
+      ],
+      "status": "revisado; sem material visual equivalente selecionado"
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.pt.md",
+      "video": "../../gravacoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.mp4",
+      "images_added": 0,
+      "decision": "Preenchimento de formulário e visualização de referências na StArt. As páginas 23 e 24 da Parte 3 tratam dos conceitos, mas não reproduzem o formulário nem o grafo mostrado. Sem nova imagem, conforme a preferência por conteúdo equivalente dos arquivos originais.",
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 640,
+          "timestamp": "00:10:40",
+          "checked_frame_sha256": "bcd2f1ef41d25c19605cb47ab2d6547365c471e30d7f2429f097d839f41417e3"
+        },
+        {
+          "timestamp_seconds": 1080,
+          "timestamp": "00:18:00",
+          "checked_frame_sha256": "f0c129db9d4721bdb6301b056f542fb8dbbaa32fa63bafc6168671964d33f4cb"
+        }
+      ],
+      "status": "revisado; sem material visual equivalente selecionado"
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-16 - Metodologia de Pesquisa.pt.md",
+      "video": "../../gravacoes/2026-10-16 - Metodologia de Pesquisa.mp4",
+      "images_added": 0,
+      "decision": "Nos pontos relevantes examinados, a tela mostra participantes, sem slide ou figura metodológica. O início da gravação contém tutoriais de busca excluídos do escopo; o restante inclui dúvidas e organização dos atendimentos. Nenhuma imagem adicional selecionada.",
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 740,
+          "timestamp": "00:12:20",
+          "checked_frame_sha256": "33c8d250f161a898ba49eaa2571a3572d2815a301581c0374196823e9bcb328b"
+        },
+        {
+          "timestamp_seconds": 1040,
+          "timestamp": "00:17:20",
+          "checked_frame_sha256": "18fa4b4607007f145f2496187bc985413262554f6b13a8c5c33a5998fe3db23d"
+        },
+        {
+          "timestamp_seconds": 1120,
+          "timestamp": "00:18:40",
+          "checked_frame_sha256": "a19e1adf97760b26152b5d95aac9cbd9678f86f8435f1601023284b749480e04"
+        }
+      ],
+      "status": "revisado; sem material visual equivalente selecionado"
+    }
+  ],
+  "coverage": [
+    {
+      "transcript": "../../transcricoes/2026-09-18 1849 - Metodologia de Pesquisa - Aula 1.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 3,
+      "video_points_inspected": [
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 7170,
+          "timestamp": "01:59:30",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "9afee796f22b63347362e40048a623d2961b4a3eed68998257a470118714e310"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 9169,
+          "timestamp": "02:32:49",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "5e5d21d409b86c487c20d3f7078d188f4654f2190e48d655ed4dd412c8fdf19f"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 10334,
+          "timestamp": "02:52:14",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "69e475311000d2d77e27f7f8ba91ee67dae15ce5531124fed2ea9d6268d5fd33"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 1.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 4,
+      "video_points_inspected": [
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 342,
+          "timestamp": "00:05:42",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "0bffe3c482b3be76f188a27a2f6625689d5d0ee1704a322833fb3aae46bf153d"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1338,
+          "timestamp": "00:22:18",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "5ed79082c7d93d18a3318b4b52cdd509846dd7fcb1f2827534a9fbfd8985a413"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1819,
+          "timestamp": "00:30:19",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "f6845ca183ee3f70a10e2f2cde1e80352a795598f138f37e92cdccb91985c32f"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 4246,
+          "timestamp": "01:10:46",
+          "method": "comparação visual do quadro com a página integral do PDF",
+          "observed": "Coincidem título, conteúdo e disposição dos elementos da página indicada.",
+          "checked_frame_sha256": "147d5ac8db54effd107a0bc569377e765e201158d483ac3d72ecb3ed736d26fd"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 0756 - Metodologia de Pesquisa - Aula 2 - Parte 1 - Segmento 2.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 0,
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 12160,
+          "timestamp": "03:22:40",
+          "checked_frame_sha256": "b456f3ac80375ae06e7eceb0966d94d9b22e30a397db429ba96bdca3813b2dfa"
+        },
+        {
+          "timestamp_seconds": 13240,
+          "timestamp": "03:40:40",
+          "checked_frame_sha256": "6f8229bffde8091f6b5b0de71c3e9202ecdc488a0a182396ab2165de47673cfa"
+        },
+        {
+          "timestamp_seconds": 13334,
+          "timestamp": "03:42:14",
+          "checked_frame_sha256": "3c5dd3fc05e308afc67e28842f463e7bd2b08955876977fa1fc0bc0c858e873b"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-09-19 1333 - Metodologia de Pesquisa - Aula 2 - Parte 2.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 0,
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 640,
+          "timestamp": "00:10:40",
+          "checked_frame_sha256": "bcd2f1ef41d25c19605cb47ab2d6547365c471e30d7f2429f097d839f41417e3"
+        },
+        {
+          "timestamp_seconds": 1080,
+          "timestamp": "00:18:00",
+          "checked_frame_sha256": "f0c129db9d4721bdb6301b056f542fb8dbbaa32fa63bafc6168671964d33f4cb"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-02 1854 - Metodologia de Pesquisa.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 7,
+      "video_points_inspected": [
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1140,
+          "timestamp": "00:19:00",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "1591754d54e099031c158119c0d2a68064cf2997a486df180314b3f7e0cd4b6a"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 2180,
+          "timestamp": "00:36:20",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "3b88115cf8ebebae3d4a4aed34ac7c0e3e706218a23f362eda90163000c47bda"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 2540,
+          "timestamp": "00:42:20",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "42d1f0746b554f4c02f97dad6eb841abd6d03559377a8783d6540b39bfe6f973"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 2635,
+          "timestamp": "00:43:55",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "c20f1787465b72b32f7920ae8b07e69d8a79447b62f95023d6e869b825852362"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 2740,
+          "timestamp": "00:45:40",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "f9bf1e22f2cb28e5771ac3bcc28e9aadfa40d421b25876bc088f2131e3fe6bac"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 2920,
+          "timestamp": "00:48:40",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "547ce4b3f49a85082a55b85449eb45c9c195bd14bce38ab009111fa5ed8a7f82"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 3100,
+          "timestamp": "00:51:40",
+          "method": "comparação visual entre o quadro do vídeo e a reprodução do slide original",
+          "checked_frame_sha256": "e9c7efe261b0a23a3ada818519a0cc09a69d1c3c3434091cc0dcc1a743ee643f"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-16 - Metodologia de Pesquisa.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 0,
+      "video_points_inspected": [
+        {
+          "timestamp_seconds": 740,
+          "timestamp": "00:12:20",
+          "checked_frame_sha256": "33c8d250f161a898ba49eaa2571a3572d2815a301581c0374196823e9bcb328b"
+        },
+        {
+          "timestamp_seconds": 1040,
+          "timestamp": "00:17:20",
+          "checked_frame_sha256": "18fa4b4607007f145f2496187bc985413262554f6b13a8c5c33a5998fe3db23d"
+        },
+        {
+          "timestamp_seconds": 1120,
+          "timestamp": "00:18:40",
+          "checked_frame_sha256": "a19e1adf97760b26152b5d95aac9cbd9678f86f8435f1601023284b749480e04"
+        }
+      ]
+    },
+    {
+      "transcript": "../../transcricoes/2026-10-30 - Metodologia de Pesquisa.pt.md",
+      "status": "revisão visual concluída no escopo definido",
+      "images_inserted": 6,
+      "video_points_inspected": [
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 870,
+          "timestamp": "00:14:30",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "6368a55bcddb84d7f12d47e16498827f087b10ac67a8f90e9bf7e94cae6e28d4"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1350,
+          "timestamp": "00:22:30",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "54628d778d7e87bab737ec7aa1ce7772459aea62985fcc334698a836290e6ca2"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1590,
+          "timestamp": "00:26:30",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "22f650db486874b4067de891cf88d801dfbee081d22dce9e9cdaca670ff3b07a"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 1920,
+          "timestamp": "00:32:00",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "9e8654031933e446f7d013e4a3ee00ffbdc919bf6b2158d5f531e2cc191c4a07"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 3080,
+          "timestamp": "00:51:20",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "677d786d6c9176c0b87518027f76377963431fbb4cdef864f73619140bb6a54d"
+        },
+        {
+          "verified_at": "2026-11-06",
+          "timestamp_seconds": 3580,
+          "timestamp": "00:59:40",
+          "method": "comparação visual do quadro com o conteúdo original",
+          "checked_frame_sha256": "5590c3c6640422babf7f0431806165496491b167d79ee9da80e2fe575a7133e6"
+        }
+      ]
+    }
+  ]
+}

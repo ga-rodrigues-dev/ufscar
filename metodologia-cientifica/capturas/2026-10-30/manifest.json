@@ -1,0 +1,30 @@
+{
+  "superseded_by": "../materiais/manifest.json",
+  "reason": "As seis ilustrações de 30/10 agora usam os materiais originais conferidos no vídeo.",
+  "previous_screenshots_replaced": [
+    {
+      "image": "00-14-30-citacao-direta.png",
+      "sha256": "f9b5f2414cab7c23e3e4270875cdbfe3d070a789565c7316bc948c80b67fe1b8"
+    },
+    {
+      "image": "00-22-30-citacoes-caixa-alta.png",
+      "sha256": "26c5f3989e9a2bbed313779cd2b9cb34aa15fa4578373d91a1c2df00010bdf43"
+    },
+    {
+      "image": "00-26-30-formatos-referencias.png",
+      "sha256": "38f5201178c6017d209cbf332baab901ebe636e7ee046f1515b76217545dbd66"
+    },
+    {
+      "image": "00-32-00-resumo-estruturado.png",
+      "sha256": "fc7f404f226d1b5a5cbf9467b1c536b6694ba8da868cf8927612b5eb289d72d4"
+    },
+    {
+      "image": "00-51-20-fluxograma-selecao.png",
+      "sha256": "8b830aea66b401fdb54ec42e08c7ec20bee11dba72921c1db5f58b69b0051a97"
+    },
+    {
+      "image": "00-59-40-estrutura-apresentacao.png",
+      "sha256": "c2fab4e77ffa0da4a408fb9b5fc747e56b00defd0ab6b9a6b9f6a68386f0b016"
+    }
+  ]
+}
