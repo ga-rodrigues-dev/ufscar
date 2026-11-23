@@ -1,27 +1,41 @@
 """Gera o DOCX do TCC a partir de tcc.md usando a formatação do template SBC da disciplina.
 
-Uso: python3 build_docx.py  (lê tcc.md, escreve TCC-rascunho.docx ao lado)
+Uso:
+  python3 build_docx.py                 (lê tcc.md,    escreve TCC-rascunho.docx)
+  python3 build_docx.py tcc-en.md       (lê tcc-en.md, escreve TCC-rascunho-en.docx)
+  python3 build_docx.py FONTE.md -o SAIDA.docx
 
-Sintaxe aceita em tcc.md (subconjunto de Markdown):
+O idioma é detectado pelo marcador do resumo: "**Resumo.**" -> pt-BR, "**Abstract.**" -> en-US
+(define o idioma de revisão ortográfica do Word).
+
+Sintaxe aceita na fonte (subconjunto de Markdown):
   # Título                      -> título do artigo
   @autor / @afiliacao / @email  -> bloco de identificação
-  **Resumo.** ...               -> resumo (recuado, itálico)
+  **Resumo.** / **Abstract.**   -> resumo (recuado, itálico)
   ## 1. Seção                   -> seção numerada (Times 13 negrito)
   ### 1.1. Subseção             -> subseção (Times 12 negrito)
-  Tabela N. legenda + tabela pipe logo abaixo
-  ![Figura N. legenda](arquivo.png){largura_cm}
+  Tabela N. / Table N. legenda + tabela pipe logo abaixo
+  ![Figura N. legenda](arquivo.png){largura_cm}  (ou "Figure N.")
   linhas iniciadas por "- "     -> lista com marcador
   ::ref texto                   -> item de referência (ABNT)
   *itálico*, **negrito**
 """
-import re, shutil, struct, sys, zipfile
+import argparse, re, shutil, struct, zipfile
 from pathlib import Path
 from xml.sax.saxutils import escape
 
 HERE = Path(__file__).resolve().parent
 TEMPLATE = HERE.parent / "materiais" / "MeuTCC-explicacoesGerais 2026.docx"
-SRC = HERE / "tcc.md"
-OUT = HERE / "TCC-rascunho.docx"
+
+ABSTRACT_RE = re.compile(r"^\*\*(Resumo|Abstract)\.\*\*")
+TABLE_RE = re.compile(r"^(Tabela|Table) \d+\.")
+LANGS = {"Resumo": "pt-BR", "Abstract": "en-US"}
+
+
+def default_out(src):
+    """tcc.md -> TCC-rascunho.docx; tcc-en.md -> TCC-rascunho-en.docx."""
+    suffix = src.stem[3:] if src.stem.lower().startswith("tcc") else "-" + src.stem
+    return src.with_name(f"TCC-rascunho{suffix}.docx")
 
 NOBDR = '<w:pBdr><w:top w:val="nil"/><w:left w:val="nil"/><w:bottom w:val="nil"/><w:right w:val="nil"/><w:between w:val="nil"/></w:pBdr>'
 HELV = '<w:rFonts w:ascii="Helvetica Neue" w:eastAsia="Helvetica Neue" w:hAnsi="Helvetica Neue" w:cs="Helvetica Neue"/>'
@@ -93,12 +107,12 @@ def png_size(path):
     return struct.unpack(">II", head[16:24])
 
 
-def image(rid, path, width_cm, n):
+def image(rid, path, width_cm, n, label="Figura"):
     wpx, hpx = png_size(path)
     cx = int(width_cm * 360000)
     cy = int(cx * hpx / wpx)
     return (f'<w:p><w:pPr>{NOBDR}<w:keepNext/><w:spacing w:before="120"/><w:jc w:val="center"/></w:pPr><w:r><w:drawing>'
-            f'<wp:inline distT="0" distB="0" distL="0" distR="0"><wp:extent cx="{cx}" cy="{cy}"/><wp:docPr id="{100+n}" name="Figura {n}"/>'
+            f'<wp:inline distT="0" distB="0" distL="0" distR="0"><wp:extent cx="{cx}" cy="{cy}"/><wp:docPr id="{100+n}" name="{label} {n}"/>'
             f'<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">'
             f'<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture"><pic:nvPicPr><pic:cNvPr id="{100+n}" name="fig{n}.png"/><pic:cNvPicPr/></pic:nvPicPr>'
             f'<pic:blipFill><a:blip r:embed="{rid}"/><a:stretch><a:fillRect/></a:stretch></pic:blipFill>'
@@ -106,8 +120,11 @@ def image(rid, path, width_cm, n):
             f'</a:graphicData></a:graphic></wp:inline></w:drawing></w:r></w:p>')
 
 
-def build():
-    lines = SRC.read_text(encoding="utf-8").splitlines()
+def build(src, out, work):
+    lines = src.read_text(encoding="utf-8").splitlines()
+    marker = next((m.group(1) for m in map(ABSTRACT_RE.match, lines) if m), "Resumo")
+    lang = LANGS[marker]
+    fig_label = "Figure" if lang == "en-US" else "Figura"
     meta, body, images = {}, [], []
     first_in_section = True
     i = 0
@@ -121,13 +138,13 @@ def build():
         elif ln.startswith("@"):
             k, v = ln[1:].split(" ", 1)
             meta[k] = v
-        elif ln.startswith("**Resumo.**"):
+        elif ABSTRACT_RE.match(ln):
             body.append(para(ln, '<w:spacing w:before="240" w:after="120"/><w:ind w:left="454" w:right="454"/>', "<w:i/>"))
         elif ln.startswith("## "):
             body.append(heading(ln[3:], 1)); first_in_section = True
         elif ln.startswith("### "):
             body.append(heading(ln[4:], 2)); first_in_section = True
-        elif re.match(r"^Tabela \d+\.", ln):
+        elif TABLE_RE.match(ln):
             body.append(caption(ln, keep_next=True))
             rows = []
             i += 1
@@ -141,11 +158,11 @@ def build():
             continue
         elif ln.startswith("!["):
             m = re.match(r"!\[(.+?)\]\((.+?)\)(?:\{([\d.]+)\})?", ln)
-            cap, p, w = m.group(1), HERE / m.group(2), float(m.group(3) or 14)
+            cap, p, w = m.group(1), src.parent / m.group(2), float(m.group(3) or 14)
             n = len(images) + 1
             rid = f"rIdImg{n}"
             images.append((rid, p, n))
-            body.append(image(rid, p, w, n))
+            body.append(image(rid, p, w, n, fig_label))
             body.append(caption(cap))
         elif ln.startswith("- "):
             body.append(para("• " + ln[2:], '<w:spacing w:before="60"/><w:ind w:left="567" w:hanging="283"/>'))
@@ -157,7 +174,6 @@ def build():
             first_in_section = False
         i += 1
 
-    work = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / ".build"
     if work.exists():
         shutil.rmtree(work)
     zipfile.ZipFile(TEMPLATE).extractall(work)
@@ -190,6 +206,11 @@ def build():
         r = r.replace("</Relationships>", f'<Relationship Id="{rid}" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="media/fig{n}.png"/></Relationships>')
     rels.write_text(r, encoding="utf-8")
 
+    # idioma padrão de revisão ortográfica (o template vem em pt-BR)
+    styles = work / "word" / "styles.xml"
+    s = styles.read_bytes()  # bytes: read_text() normalizaria o \r\n do template
+    styles.write_bytes(re.sub(rb'(<w:lang\b[^>]*?\bw:val=")[^"]+"', rb'\g<1>' + lang.encode() + b'"', s))
+
     core = work / "docProps" / "core.xml"
     if core.exists():
         c = core.read_text(encoding="utf-8")
@@ -197,15 +218,21 @@ def build():
         c = re.sub(r"<dc:creator>.*?</dc:creator>", f"<dc:creator>{escape(meta['autor'])}</dc:creator>", c)
         core.write_text(c, encoding="utf-8")
 
-    if OUT.exists():
-        OUT.unlink()
-    with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED) as z:
+    if out.exists():
+        out.unlink()
+    with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
         for f in sorted(work.rglob("*")):
             if f.is_file():
                 z.write(f, f.relative_to(work).as_posix())
     shutil.rmtree(work)
-    print(OUT, OUT.stat().st_size, "bytes;", len(body), "blocos")
+    print(out, out.stat().st_size, "bytes;", len(body), "blocos;", lang)
 
 
 if __name__ == "__main__":
-    build()
+    ap = argparse.ArgumentParser(description="Gera o DOCX do TCC no template SBC.")
+    ap.add_argument("src", nargs="?", default=HERE / "tcc.md", type=Path, help="fonte Markdown (padrão: tcc.md)")
+    ap.add_argument("-o", "--out", type=Path, help="DOCX de saída (padrão: TCC-rascunho[-sufixo].docx)")
+    ap.add_argument("--work", type=Path, default=HERE / ".build", help="diretório temporário de montagem")
+    a = ap.parse_args()
+    src = a.src.resolve()
+    build(src, (a.out or default_out(src)).resolve(), a.work)
